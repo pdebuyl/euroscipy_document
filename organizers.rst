@@ -1,8 +1,35 @@
-Organizers of the conference
-****************************
+==============================
+ Organizers of the conference
+==============================
 
 Role of the committees
 ======================
+
+Chairs
+------
+
+The chair coordinates the organization of the conference.
+
+Local organization committee
+----------------------------
+
+The local organization committee takes care of the venue, of the catering and of
+contacts with the host institution.
+
+Tutorial chair
+--------------
+
+The tutorials form an important part of the conference. The tutorial chair takes
+care of finding tutorial speakers and of managing the schedule of the tutorials.
+
+Program committee
+-----------------
+
+The program committee has the hard task to select the speakers for the
+scientific track of the conference. The number of submissions to participate to
+the conference as a speaker is such that only about 50% of the applicants obtain
+a time slot.
+
 
 Members of the committees
 =========================

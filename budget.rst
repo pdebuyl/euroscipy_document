@@ -1,5 +1,6 @@
-Budget estimates
-****************
+==================
+ Budget estimates
+==================
 
 This chapter provides budget estimates based on the experience from previous
 years and from the local organizers.
