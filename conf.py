@@ -178,7 +178,7 @@ htmlhelp_basename = 'EuroSciPy2012doc'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'EuroSciPy2012.tex', u'EuroSciPy 2012 Documentation',
+  ('index', 'EuroSciPy2012.tex', u'EuroSciPy 2012',
    u'The EuroSciPy committee', 'manual'),
 ]
 
@@ -211,6 +211,6 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'euroscipy2012', u'EuroSciPy 2012 Documentation',
+    ('index', 'euroscipy2012', u'EuroSciPy 2012',
      [u'The EuroSciPy committee'], 1)
 ]
