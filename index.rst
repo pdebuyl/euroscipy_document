@@ -13,3 +13,4 @@
    past_conferences
    organizers
    budget
+   organization_2012

@@ -2,6 +2,11 @@
  Organizers of the conference
 ==============================
 
+The conference organization is split up into different committees responsible
+for the different aspects of the conference. Many committee members have already
+taken part in previous editions of EuroSciPy. New additions to the team include
+the local organizers from Brussels.
+
 Role of the committees
 ======================
 
