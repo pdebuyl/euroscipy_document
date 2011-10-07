@@ -5,6 +5,13 @@
 This chapter provides budget estimates based on the experience from previous
 years and from the local organizers.
 
+We have included the main income that comes from the registration fees. We are
+looking actively for sponsors to cover the basic expense for the conference
+(venue and catering).
+
+Some sponsoring is received as direct support of the travel expenses to keynote
+speakers which simplifies our accounting.
+
 Venue
 =====
 
@@ -45,14 +52,46 @@ The rooms for the satellite meetings are
 
 * 200 euros per satellite meeting.
 
+Global cost for the venue
+-------------------------
+
+Lower estimate: 800+1500+400 (considering 2 satellites) 2700.
+
+Upper estimate: 1200+400+1500+600 (considering 3 satellites) 3700.
+
 Catering
 ========
 
-Catering for lunches and coffee breaks are provided.
+Catering for lunches and coffee breaks are provided. On the basis of previous
+editions, we plan about 19.000 euros for lunches and coffee breaks for days one
+to four.
 
 Support of invited speakers
 ===========================
 
 The support of invited speakers is provided directly by sponsors. No money
-related to this are handled by the organizers.
+related to this is handled by the organizers.
+
+Revenue from registration fees
+==============================
+
+Based on reasonable (i.e. pessimistic) attendance numbers, here is the expected
+income from the registration fees.
+
+Tutorials
+---------
+
+About 130 academic participants: 130*50=6500
+About 20 corporate participants: 20*100=2000
+
+Main track
+----------
+
+About 130 academic participants: 130*50=6500
+About 20 corporate participants: 20*100=2000
+
+Total income
+------------
+
+17.000 euros.
 
