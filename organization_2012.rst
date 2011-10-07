@@ -93,7 +93,7 @@ Registration
 ============
 
 Registration of participants will be taken care of by Logilab. Logilab manages
-the `http://www.euroscipy.org`_ website. A online payment system is available.
+the http://www.euroscipy.org/ website. A online payment system is available.
 This system has already been used in 2011 and Nicolas Chauvat of Logilab agrees
 to take care of it for 2012.
 

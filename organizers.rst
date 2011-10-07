@@ -19,13 +19,15 @@ Local organization committee
 ----------------------------
 
 The local organization committee takes care of the venue, of the catering and of
-contacts with the host institution.
+contacts with the host institution. Local organizers will also try to find
+Belgian sponsors.
 
 Tutorial chair
 --------------
 
-The tutorials form an important part of the conference. The tutorial chair takes
-care of finding tutorial speakers and of managing the schedule of the tutorials.
+The tutorials form an important part of the conference and as such a dedicated
+group is responsible for its organization. The tutorial chair takes care of
+finding tutorial speakers and of managing the schedule of the tutorials.
 
 Program committee
 -----------------
@@ -43,7 +45,9 @@ The local organizing committee is made of
 
 * Nicolas Pettiaux
 
-    Nicolas Pettiaux is XXX
+    Nicolas Pettiaux is professor of physics in a secondary school, part of the
+    sessional teaching staff of the Faculty of Applied Sciences, scientific
+    collaborator within the same Faculty and software consultant.
 
 * Pierre de Buyl
 
