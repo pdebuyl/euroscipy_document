@@ -10,7 +10,7 @@
 .. toctree::
    :maxdepth: 2
 
-   past_conferences
+   conference_presentation
    organizers
    budget
    organization_2012

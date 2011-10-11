@@ -1,6 +1,6 @@
-============================
- Past EuroSciPy conferences
-============================
+=========================
+The EuroSciPy conferences
+=========================
 
 First conference
 ================
