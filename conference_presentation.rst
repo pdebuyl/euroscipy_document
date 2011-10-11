@@ -1,6 +1,6 @@
-=========================
-The EuroSciPy conferences
-=========================
+========================
+The EuroSciPy conference
+========================
 
 First conference
 ================
