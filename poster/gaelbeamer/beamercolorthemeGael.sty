@@ -1,0 +1,51 @@
+
+\definecolor{LinkColor}{rgb}{0.95, 0.95, 1}
+
+\definecolor{MyDeepBlue}{RGB}{50,100,150}
+\definecolor{MyCyan}{RGB}{3,183,232}
+\definecolor{MyOrange}{RGB}{252,135,36}
+\colorlet{MyLightBlue}{MyDeepBlue!50!MyCyan}
+
+\colorlet{GoalColor}{MyDeepBlue}
+%% Coloring links does not seem to work this way
+%\colorlet{LinkColor}{MyCyan}
+\colorlet{ResultColor}{MyDeepBlue}
+\colorlet{SorryColor}{MyDeepBlue}
+\colorlet{ImportantColor}{MyCyan}
+
+\colorlet{CompareOther}{MyDeepBlue}
+\colorlet{CompareItem}{yellow}
+
+\colorlet{shadingcolor}{MyLightBlue!60}
+
+\colorlet{structurecolor}{MyDeepBlue!70!black}
+\setbeamercolor{structure}{fg=structurecolor}
+
+\colorlet{alertcolor}{MyOrange!85!black!75!red}
+\setbeamercolor{alerted text}{fg=MyOrange!85!black!75!red}
+
+%\setbeamercolor{titlelike}{fg=MyCyan,bg=MyDeepBlue}
+\setbeamercolor{titlelike}{fg=MyCyan!25!white!75!black,bg=MyDeepBlue}
+
+%\setbeamercolor{titlelike}{parent=palette quaternary}
+
+\setbeamercolor{block title}{fg=MyDeepBlue!50!black,bg=MyCyan!70!MyDeepBlue!50}
+\setbeamercolor{block title alerted}{use=alerted text,fg=MyDeepBlue,bg=alerted text.fg!75!bg}
+\setbeamercolor{block title example}{use=example text,fg=MyDeepBlue,bg=example text.fg!75!bg}
+
+\setbeamercolor{block body}{parent=normal text,use=block title,bg=MyLightBlue!15}
+\setbeamercolor{block body alerted}{parent=normal text,use=block title alerted,bg=block title alerted.bg!25!bg}
+\setbeamercolor{block body example}{parent=normal text,use=block title example,bg=block title example.bg!25!bg}
+
+% Frame title
+\setbeamercolor*{palette secondary}{use=structure,fg=MyDeepBlue,bg=MyCyan}
+%%
+\setbeamercolor*{palette tertiary}{use=structure,fg=MyCyan,bg=structure.fg!50!black}
+% Color of navigation elements on top
+\setbeamercolor*{palette quaternary}{fg=MyCyan,bg=MyDeepBlue}
+
+%\setbeamercolor*{titlelike}{parent=palette primary}
+
+\setbeamercolor*{separation line}{}
+\setbeamercolor*{fine separation line}{}
+
