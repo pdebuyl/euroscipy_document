@@ -1,0 +1,42 @@
+% Poster style to use with beamer class.
+\usepackage{graphicx}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[utf8]{inputenc}
+
+\usetheme{Frankfurt}  % Required for gaelbeamer
+
+
+\input{gaelbeamer/gaelbeamer.sty}
+
+\usepackage{geometry}
+\geometry{verbose,a4paper, left=0.3cm, right=0.3cm, bottom=0pt}
+
+\setbeamercolor{frametitle}{bg=structure.fg!50!black, fg=SkoleYellow}
+\setbeamercolor{frametitle right}{bg=black}
+
+% Override the drop shadow to make it bigger.
+\AtBeginDocument{
+  \pgfdeclareverticalshading{beamer@topshade}{\paperwidth}{%
+    color(0pt)=(bg);
+    color(10pt)=(black!50!bg)}
+}
+
+\newcommand{\postertitle}[1]{%
+\frametitle{%
+\vbox{}\hspace*{-0.14cm}%
+\vbox{%
+\scalebox{2}{%
+\begin{minipage}{0.475\linewidth}%
+\vspace*{0.15cm}%
+\def\baselinestretch{0.8}%
+\Large\bfseries\sffamily%
+\center%
+#1%
+\end{minipage}}%
+\vspace*{-0.1cm}\vbox{}%
+}%
+}%
+\vspace*{-5pt}\vbox{}%
+}
+

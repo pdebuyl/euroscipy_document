@@ -1,0 +1,58 @@
+\ProvidesPackageRCS $Header: /cvsroot/latex-beamer/latex-beamer/themes/color/beamercolorthemecrane.sty,v 1.8 2004/10/28 17:15:51 tantau Exp $
+
+% Addapted from beamercolortheeSkole by Gael Varoquaux
+
+%\mode<presentation>
+
+\definecolor{LinkColor}{rgb}{0.95, 0.95, 1}
+
+\definecolor{SkoleBrown}{RGB}{150,100,50}
+\definecolor{SkoleYellow}{RGB}{232,183,3}
+\definecolor{SkoleOrange}{RGB}{252,135,36}
+\colorlet{SkoleLightBrown}{SkoleBrown!50!SkoleYellow}
+
+\colorlet{GoalColor}{SkoleBrown}
+%% Coloring links does not seem to work this way
+%\colorlet{LinkColor}{SkoleYellow}
+\colorlet{ResultColor}{SkoleBrown}
+\colorlet{SorryColor}{SkoleBrown}
+\colorlet{ImportantColor}{SkoleYellow}
+
+\colorlet{CompareOther}{SkoleBrown}
+\colorlet{CompareItem}{yellow}
+
+\colorlet{shadingcolor}{SkoleLightBrown!60}
+
+\colorlet{structurecolor}{SkoleBrown!85!black}
+\setbeamercolor{structure}{fg=structurecolor}
+
+\colorlet{alertcolor}{SkoleOrange!85!black!75!red}
+\setbeamercolor{alerted text}{fg=SkoleOrange!85!black!75!red}
+
+\setbeamercolor{titlelike}{fg=SkoleYellow,bg=SkoleBrown}
+
+%\setbeamercolor{titlelike}{parent=palette quaternary}
+
+\setbeamercolor{block title}{fg=SkoleBrown!50!black,bg=SkoleYellow!70!SkoleBrown!50}
+\setbeamercolor{block title alerted}{use=alerted text,fg=SkoleBrown,bg=alerted text.fg!75!bg}
+\setbeamercolor{block title example}{use=example text,fg=SkoleBrown,bg=example text.fg!75!bg}
+
+\setbeamercolor{block body}{parent=normal text,use=block title,bg=SkoleLightBrown!15}
+\setbeamercolor{block body alerted}{parent=normal text,use=block title alerted,bg=block title alerted.bg!25!bg}
+\setbeamercolor{block body example}{parent=normal text,use=block title example,bg=block title example.bg!25!bg}
+
+% Frame title
+\setbeamercolor*{palette secondary}{use=structure,fg=SkoleBrown,bg=SkoleYellow}
+%%
+\setbeamercolor*{palette tertiary}{use=structure,fg=SkoleYellow,bg=structure.fg!50!black}
+% Color of navigation elements on top
+\setbeamercolor*{palette quaternary}{fg=SkoleYellow,bg=SkoleBrown}
+
+%\setbeamercolor*{titlelike}{parent=palette primary}
+
+\setbeamercolor*{separation line}{}
+\setbeamercolor*{fine separation line}{}
+
+\mode
+<all>
+
