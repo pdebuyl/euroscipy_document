@@ -1,0 +1,84 @@
+
+% Blocks
+
+%\defbeamertemplateparent{blocks}{block begin,block end,%
+%  block alerted begin,block alerted end,%
+%  block example begin,block example end}
+%{}
+%
+
+%\pgfdeclarehorizontalshading[block title.bg,block body.bg]{gael@blocktitleshade}{\paperheight}{%
+\newdimen\beamer@tempht
+\newdimen\beamer@tempwd
+
+\defbeamertemplate*{block begin}{gael}
+{
+  \beamer@tempdim=1.058\linewidth%
+  %\advance\beamer@tempdim by 1.5ex
+  \pgfdeclarehorizontalshading{gael@blocktitleshade}{\paperheight}{%
+    color(0pt)=(SkoleLightBrown!40);
+    color(0.8\beamer@tempdim)=(SkoleLightBrown!30);
+    color(\beamer@tempdim)=(SkoleBrown!15)}
+  %\par\vskip\medskipamount%
+  \setbox\beamer@tempbox=\hbox{\begin{minipage}[b]{\beamer@tempdim}%
+    \usebeamerfont*{block title}\structure{\insertblocktitle}%
+    \end{minipage}}
+      \beamer@tempht=\ht\beamer@tempbox%
+      \beamer@tempwd=\wd\beamer@tempbox%
+      \advance\beamer@tempht by 4pt%
+      \begin{pgfpicture}{3.6pt}{0pt}{\beamer@tempdim}{\beamer@tempht}
+        \usebeamercolor{block title}
+        \pgfrect[clip]{\pgforigin}{\pgfpoint{\beamer@tempdim}{\beamer@tempht}}
+        \pgfbox[left,base]{\pgfuseshading{gael@blocktitleshade}}
+      \end{pgfpicture}
+      \hskip-\beamer@tempdim%
+      \vskip-\beamer@tempht%
+      \vskip -3.8ex%
+      \box\beamer@tempbox%
+  {\parskip0pt\par}%
+  \ifbeamercolorempty[bg]{block title}
+  {}
+  {\ifbeamercolorempty[bg]{block body}{}{\nointerlineskip\vskip-0.5pt}}%
+  \usebeamerfont{block body}%
+  \begin{beamercolorbox}[colsep*=.75ex,vmode]{block body}%
+    \ifbeamercolorempty[bg]{block body}{\vskip-.25ex}{\vskip-.75ex}\vbox{}%
+}
+\defbeamertemplate*{block end}{gael}  
+{\end{beamercolorbox}\vskip\smallskipamount}
+
+\defbeamertemplate*{block alerted begin}{gael}
+{
+  \par\vskip\medskipamount%
+  \begin{beamercolorbox}[colsep*=.75ex]{block title alerted}
+    \usebeamerfont*{block title alerted}\insertblocktitle%
+  \end{beamercolorbox}%
+  {\parskip0pt\par}%
+  \ifbeamercolorempty[bg]{block title alerted}
+  {}
+  {\ifbeamercolorempty[bg]{block body alerted}{}{\nointerlineskip\vskip-0.5pt}}%
+  \usebeamerfont{block body alerted}%
+  \begin{beamercolorbox}[colsep*=.75ex,vmode]{block body alerted}%
+    \ifbeamercolorempty[bg]{block body alerted}{\vskip-.25ex}{\vskip-.75ex}\vbox{}%
+}
+
+\defbeamertemplate*{block alerted end}{gael}
+{\end{beamercolorbox}\vskip\smallskipamount}
+
+
+\defbeamertemplate*{block example begin}{gael}
+{
+  \par\vskip\medskipamount%
+  \begin{beamercolorbox}[colsep*=.75ex]{block title example}
+    \usebeamerfont*{block title example}\insertblocktitle%
+  \end{beamercolorbox}%
+  {\parskip0pt\par}%
+  \ifbeamercolorempty[bg]{block title example}
+  {}
+  {\ifbeamercolorempty[bg]{block body example}{}{\nointerlineskip\vskip-0.5pt}}%
+  \usebeamerfont{block body example}%
+  \begin{beamercolorbox}[colsep*=.75ex,vmode]{block body example}%
+    \ifbeamercolorempty[bg]{block body example}{\vskip-.25ex}{\vskip-.75ex}\vbox{}%
+}
+\defbeamertemplate*{block example end}{gael}
+{\end{beamercolorbox}\vskip\smallskipamount}
+

@@ -1,0 +1,175 @@
+% This provides the gael like theme. It has only been tested with the
+% Frankfurt theme.
+
+\setbeamercovered{transparent}
+
+
+%%%%%% Brutal solution to reduce the height of the navigation bar %{{{--
+%% Tested only with the Frankfurt and alike themes
+\defbeamertemplate*{headline}{gael theme}
+{%
+  \pgfuseshading{beamer@barshade}%
+    \vskip-7ex%
+ % Get rid of even more.  
+    \vskip-4ex%
+  \begin{beamercolorbox}[ht=2.25ex,dp=1.4ex]{palette tertiary}
+    \insertnavigation{\paperwidth}
+  \end{beamercolorbox}%
+  }%
+%--}}}
+%% !!! If you use subsections you'll get small navigation dots in the  %%
+%%                                headlines                            %%
+
+
+
+\input{gaelbeamer/my_beamercolorthemeGael.sty}
+
+% Add a gradient to the slides:
+\newcommand{\gradientbackground}{%
+  \setbeamercolor{normal text}{bg=shadingcolor!50}
+  \beamertemplateshadingbackground{shadingcolor}{white}
+}
+
+% Make the slide background white:
+\newcommand{\whitebackground}{%
+  \setbeamertemplate{background}{}
+  \setbeamercolor{normal text}{bg=white}
+  \beamertemplateshadingbackground{white}{white}
+}
+
+\input{gaelbeamer/shadowtitle.sty}
+\input{gaelbeamer/gaelbeamerblock.sty}
+
+\xdefinecolor{darkgreen}{rgb}{0,0.5,0}
+\xdefinecolor{darkred}{rgb}{0.7,0,0}
+
+\newcommand{\vfilll}{\vfill\vfill}
+\renewcommand{\emph}[1]{\structure{\bfseries #1}}
+\renewcommand{\equiv}{\ifmmode \Rightleftarrow \else
+\structure{~$\Leftrightarrow$}~\fi}
+\renewcommand\implies{\ifmmode \implies \else
+\structure{~$\Rightarrow$}~\fi}
+\newcommand\plus{\ifmmode + \else \structure{~$+$}~\fi}
+\let\oldsim\sim
+\renewcommand\sim{\ifmmode \oldsim \else
+\structure{~$\boldsymbol{\oldsim}$}~\fi}
+
+\newcommand{\rulebreak}{%
+    %\par\vskip 2ex plus 3ex minus 1ex%
+    \textcolor{black!40!white}{\hrule}
+    \par\vskip 2ex plus 3ex minus 1ex%
+}
+
+% Modifying the title page. {{{-- (see beamerinnerthemedefault.sty)
+\defbeamertemplate*{my title}{default}[1][]
+{
+\setbeamercolor{title}{bg=black}
+\pgfdeclarehorizontalshading[title.bg,frametitle
+right.bg]{beamer@titleshade}{\paperheight}{%
+  color(0pt)=(frametitle right.bg!50!title.bg);
+  color(\paperwidth)=(title.bg)}
+%
+  \vbox{}
+  \vskip 1ex plus 0.2\paperheight
+%
+  \setbox\beamer@tempbox=\hbox{\begin{minipage}[b]{\paperwidth}
+\usebeamerfont{title}\usebeamercolor[fg]{title}
+\indent\inserttitle
+\strut\par\nointerlineskip\vbox{}
+  \end{minipage}}
+%
+    \beamer@tempdim=\ht\beamer@tempbox%
+      \advance\beamer@tempdim by 2pt%
+%
+    \hbox to\textwidth{\hskip-\Gm@lmargin
+      \begin{pgfpicture}{0pt}{0pt}{\paperwidth}{\beamer@tempdim}
+        \usebeamercolor{frametitle right}
+        \pgfrect[clip]{\pgforigin}{\pgfpoint{\paperwidth}{\beamer@tempdim}}
+        \pgfbox[left,base]{\pgfuseshading{beamer@titleshade}}
+      \end{pgfpicture}
+      \hskip-\paperwidth%
+      \box\beamer@tempbox%
+    }
+    \nointerlineskip
+    \vskip-0.2pt
+    \hbox
+to\textwidth{\hskip-\Gm@lmargin\pgfuseshading{beamer@topshade}\hskip-\Gm@rmargin}
+    \vskip-2pt
+
+  \begin{centering}
+    \vskip0.6em\par
+    \begin{beamercolorbox}[sep=8pt,center,#1]{author}
+      \usebeamerfont{author}\insertauthor
+    \end{beamercolorbox}
+    \vskip -1em % must die !
+    \begin{beamercolorbox}[sep=8pt,center,#1]{institute}
+      \usebeamerfont{institute}\insertinstitute
+    \end{beamercolorbox}
+    \begin{beamercolorbox}[sep=8pt,center,#1]{date}
+      \usebeamerfont{date}\insertdate
+    \end{beamercolorbox}\vskip-0.7em
+    {\usebeamercolor[fg]{titlegraphic}\inserttitlegraphic\par}
+  \end{centering}
+  \vskip 1ex plus 0.2\paperheight
+}
+
+\def\titlepage{\usebeamertemplate*{my title}\@thanks}
+
+% --}}}
+
+% Use the beamer balls. {{{-- (see beamerbaseauxtemplates.sty)
+\pgfdeclareradialshading[fg,parent.bg]{ballsphere}{\pgfpoint{-0.1849315ex}{.2260273ex}}%
+{%
+  color(0cm)=(fg!15);
+  color(0.1643835ex)=(fg!75);
+  color(0.3287671ex)=(fg!70!black);
+  color(0.4520547ex)=(fg!50!black);
+  color(0.53ex)=(parent.bg)}
+\def\ball{\mbox{\beamer@usesphere{item projected}{bigsphere}}}
+\def\alertball{\mbox{\beamer@usesphere{alerted text}{ballsphere}}}
+\def\exampleball{\mbox{\beamer@usesphere{example text}{ballsphere}}}
+\def\whiteball{\mbox{\beamer@usesphere{white}{bigsphere}}}
+% --}}}
+
+% Nice numbers {{{--
+\usepackage{tikz}
+
+\def\@fncolor#1{\ifcase#1\or green\or red\or blue%
+   \or orange\or purple\or yellow%
+   \else white\fi}
+
+\newcommand{\nicenum}[1]{%
+\def\my@color{\@fncolor{#1}}%
+\raisebox{-0.3em}{%
+\begin{tikzpicture}[rounded corners=.25em,ultra thick, color=black]
+  \shadedraw[top color=\my@color!70!black, bottom
+color=\my@color!1!black,
+            shading angle=30,
+            ]
+            (0,0) rectangle +(1.1em,1.1em);
+  \node[text=white] at (0.55em,0.55em) {\bf #1} ;
+\end{tikzpicture}%
+}%
+}
+%--}}}
+
+\usenavigationsymbolstemplate{} % To remove navigation symbols
+\usepackage{multimedia}   % For embedding movies
+
+% A page style with my name at the bottom.
+\def\ps@name{
+    \def\@oddfoot{
+        \setlength\unitlength{0.1\linewidth}
+        \begin{picture}(9,0.1)(1.5,0)
+        \put(9.85,0.03){\textcolor{gray!40}{\sf\scriptsize Gaël Varoquaux}}
+        \end{picture}
+    }
+}
+
+% If you wish to uncover everything in a step-wise fashion, uncomment
+% the following command: 
+%\beamerdefaultoverlayspecification{<+->}
+
+% If we do not want to see not yet uncovered items:
+\setbeamercovered{invisible}
+
