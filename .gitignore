@@ -1,1 +1,11 @@
 _build
+*.dvi
+*.aux
+*.log
+*~
+*.bbl
+*.blg
+*.toc
+*.nav
+*.out
+*.snm
