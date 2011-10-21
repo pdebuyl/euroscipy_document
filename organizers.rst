@@ -41,6 +41,9 @@ a time slot.
 Members of the committees
 =========================
 
+Local organizing committee
+--------------------------
+
 The local organizing committee is made of
 
 * Nicolas Pettiaux
@@ -53,3 +56,11 @@ The local organizing committee is made of
 
     Pierre de Buyl is a postdoctoral research fellow at the Université Libre de
     Bruxelles, in the field of statistical physics and molecular simulations.
+
+Tutorials chair
+---------------
+
+The tutorial chair is Valentin Haenel. Valentin Haenel has already organized the
+tutorials in 2011. He is one of the two core contributors to psignifit, a
+toolbox for psychometric data analysis written in Python, and works at the
+Technische Universität Berlin.
