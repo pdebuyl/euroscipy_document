@@ -48,9 +48,10 @@ The local organizing committee is made of
 
 * Nicolas Pettiaux
 
-    Nicolas Pettiaux is professor of physics in a secondary school, part of the
-    sessional teaching staff of the Faculty of Applied Sciences, scientific
-    collaborator within the same Faculty and software consultant.
+    Nicolas Pettiaux has a PdD in physics. Nicolas Pettiaux is currently assistant professor of 
+    physics at the Haute Ecole de Bruxelles, 
+    section Ecole supérieure d'informatique and teaching assistant and scientific collaborator  
+    at Faculty of Applied Sciences of the Université Libre de Bruxelles and project manager as consultant.
 
 * Pierre de Buyl
 
