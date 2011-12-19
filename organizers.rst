@@ -61,7 +61,7 @@ The local organizing committee is made of
 Tutorials chair
 ---------------
 
-The tutorial chair is Valentin Haenel. Valentin Haenel has already organized the
-tutorials in 2011. He is one of the two core contributors to psignifit, a
-toolbox for psychometric data analysis written in Python, and works at the
-Technische Universität Berlin.
+The tutorial chair is Valentin Haenel who has already organized the tutorials in
+2011. He is one of the two core contributors to Psignifit-3, a toolbox for
+psychometric data analysis available for Python. He is currently working as a
+Scientific Python Developer at the Blue Brain Project in Lausanne.
