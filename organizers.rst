@@ -59,6 +59,12 @@ The local organizing committee is made of
     Pierre de Buyl is a postdoctoral research fellow at the Université Libre de
     Bruxelles, in the field of statistical physics and molecular simulations.
 
+Program chair
+-------------
+The program chair is Tiziano Zito. He has a PhD in theoretical neuroscience and
+currently works as a scientific computing consultant and system administrator
+at the Technical University in Berlin.
+
 Tutorials chair
 ---------------
 
