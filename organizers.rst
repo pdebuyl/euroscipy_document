@@ -10,27 +10,17 @@ the local organizers from Brussels.
 Role of the committees
 ======================
 
-Chairs
-------
-
-The chair coordinates the organization of the conference.
-
-Local organization committee
-----------------------------
+The chairs of the conference coordinate the organization of the conference and
+the action of the committees. In addition, there are a tutorial chair and a
+program chair taking care of these two important parts of the conference.
 
 The local organization committee takes care of the venue, of the catering and of
 contacts with the host institution. Local organizers will also try to find
 Belgian sponsors.
 
-Tutorial chair
---------------
-
 The tutorials form an important part of the conference and as such a dedicated
 group is responsible for its organization. The tutorial chair takes care of
 finding tutorial speakers and of managing the schedule of the tutorials.
-
-Program committee
------------------
 
 The program committee has the hard task to select the speakers for the
 scientific track of the conference. The number of submissions to participate to
