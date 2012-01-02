@@ -22,51 +22,42 @@ General schedule
 Rooms
 =====
 
-The availability of the Dupréel room has been checked. This room is already
-booked for days 1,2,3 and 4.
-
-Availability should be checked for rooms in the U building (Baudoux and
-Henriot).
-
-Tutorials
----------
-
-The tutorials are held in 2 rooms for 100 to 120 people. The lectures require
+All rooms require
 
 * A video projector.
 * Sound amplification.
 * Possibly power outlets along the desks to connect the laptops of participants.
+
+Tutorials
+---------
+
+The tutorials are held on days 1 and 2 (for 2012, thursday 23rd Aug. and friday,
+24th Aug.) in two rooms that can hold more at least 120 people. The lectures
+require
 
 The tutorials consist of two parallel tracks of two days, held in two rooms
 
 * 1 room for the "beginner" track.
 * 1 room for the "advanced" track.
 
-The tutorials are held on the following days
-
-* Day 1: Thursday, 23rd Aug. 2012.
-* Day 2: Friday, 24th Aug. 2012.
-
 Main Conference track
 ---------------------
 
-The main conference track requires one large conference room for 250 people,
-with video projector and amplification and possibly power outlets along the
-desks to connect laptops to many listeners.
+The main conference track takes place on days 3 and 4 (for 2012, saturday 25th
+Aug. and sunday 26th Aug.). The capacity of the room should be of more about 250
+people.
 
-* Day 3: Saturday, 25th Aug. 2012.
-* Day 4: Sunday 26th Aug. 2012.
+It consists of a single track on the two days, each day beginning by a keynote
+talk. Then, there is room for contributed talks and a poster session. The talks
+are selected by the program committee and last 30 minutes.
 
 Satellites meetings
 -------------------
 
-Satellites meetings (physics, neuro, finance, education ...): requires 3-4 rooms
-for 50 to 100 people for presentations, with video projector and amplification
-and possibly power outlets along the desks to connect laptops.
-
-The satellite meetings take place on the day following the main conference track.
-
-* Day 5: Monday 27th Aug. 2012.
+Satellite meetings are held the day following the main conference track. In
+2011, satellite meetings have been held on Physics and Neuroscience. The
+attendance is expected to be lower than for the other parts of the conference,
+with 50-100 participants per meeting.
 
 Sprints
 -------
