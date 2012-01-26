@@ -27,6 +27,8 @@ scientific track of the conference. The number of submissions to participate to
 the conference as a speaker is such that only about 50% of the applicants obtain
 a time slot.
 
+A general organizing committee supports various aspects of the conference
+organization such as the website, sponsoring and communication.
 
 Members of the committees
 =========================
@@ -78,8 +80,52 @@ Program chair
 Program Committee
 -----------------
 
-* PC member 1
-* PC member 2
+* Gaël Varoquaux
+
+    CNRS (French agency for research) researcher, former EuroSciPy chair and
+    core contributor to several Python libraries.
+
+* Stefan Van Der Walt
+
+    Postdoctoral researcher at UC Berkeley and lecturer at Stellenbosch
+    University (South Africa), core contributor to scikits-image, former SciPy
+    program chair and tutorial speaker at EuroSciPy 2011.
+
+* Konrad Hinsen
+
+    Research scientist at Centre de Biophysique Moléculaire and associated
+    scientist at Synchrotron Soleil (France), author of the Scientific Python
+    library and of the Molecular Modeling Toolkit, keynote speaker at
+    EuroSciPy 2010.
+
+* Emmanuelle Gouillart
+
+    Researcher at the Unité mixte CNRS/Saint-Gobain Surface du Verre et
+    Interfaces (France), co-organizer for EuroSciPy 2010 and 2011, contributor
+    to scikits-image.
+
+* Mike Müller
+
+    Chair of EuroSciPy 2008 and 2009, CEO of the Python Academy (Germany),
+    regular tutorial speaker at EuroSciPy.
+
+* Hans Petter Langtangen
+
+    Director of the Center for Biomedical Computing (Norway), part-time
+    professor at the University of Oslo, editor-in-chief of the SIAM Journal on
+    Scientific Computing, author of the book Python Scripting for Computational
+    Science, keynote speaker at EuroSciPy 2010.
+
+* Pierre de Buyl
+
+    co-chair of EuroSciPy 2012, postdoctoral researcher at the Université libre
+    de Bruxelles (Belgium).
+
+* Kael Hanson
+
+    Associate professor at the Université libre de Bruxelles, scientist in
+    charge of the data acquisition systems for the IceCube particle physics
+    experiment.
 
 Tutorials chair
 ---------------
@@ -90,3 +136,22 @@ Tutorials chair
     the two core contributors to Psignifit-3, a toolbox for psychometric data
     analysis available for Python. He is currently working as a Scientific
     Python Developer at the Blue Brain Project in Lausanne.
+
+General organizing committee
+----------------------------
+
+* Communication: Emmanuelle Gouillart
+
+    Researcher at the Unité mixte CNRS/Saint-Gobain Surface du Verre et
+    Interfaces (France), co-organizer for EuroSciPy 2010 and 2011, contributor
+    to scikits-image.
+
+* Sponsoring: Mike Müller.
+
+    Chair of EuroSciPy 2008 and 2009, CEO of the Python Academy (Germany),
+    regular tutorial speaker at EuroSciPy.
+
+* Web site: Nicolas Chauvat.
+
+    CEO of Logilab, a French software consulting company, co-chair of EuroSciPy
+    2010 and 2011.
