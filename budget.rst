@@ -22,55 +22,50 @@ members of the university as two organizers are part of the ULB.
 Cost information for ULB lecture rooms
 --------------------------------------
 
-The Dupréel room is available for 600 euros a day and 900 euros on a
-sunday. Other rooms are available at 200 euros a day.
+The Dupréel room is available for 200 euros a week day and 550 euros a day
+during the week-end. Other rooms are available at no cost during week days.
 
 Tutorials
 ---------
 
-In case of Dupréel room:
+Costs
 
-* 1200 Euros for the Dupréel room.
-* An additional room.
-
-In case of other rooms:
-
-* 200 euros per room per day.
-* Total cost is 800 euros.
+* No cost for H.1301 and H.1302.
 
 Main Conference track
 ---------------------
 
 The rooms for the main conference track is the Dupréel room.
 
-* Total cost for saturday and sunday: 1500 euros.
+* Total cost for saturday and sunday: 1100 euros.
 
 Satellite meetings
 ------------------
 
 The rooms for the satellite meetings are
 
-* 200 euros per satellite meeting.
+* 200 euros for the Dupréel room.
+* No cost for H.1301.
 
 Global cost for the venue
 -------------------------
 
-Lower estimate: 800+1500+400 (considering 2 satellites) 2700.
-
-Upper estimate: 1200+400+1500+600 (considering 3 satellites) 3700.
+The total cost for the venue is 1300 euros.
 
 Catering
 ========
 
-Catering for lunches and coffee breaks are provided. On the basis of previous
+Catering for lunches and coffee breaks is provided. On the basis of previous
 editions, we plan about 19.000 euros for lunches and coffee breaks for days one
 to four.
 
 Support of invited speakers
 ===========================
 
-The support of invited speakers is provided directly by sponsors. No money
-related to this is handled by the organizers.
+We encourage the support of invited speakers directly by sponsors. This allows
+us to ease the administration of the conference. At this time, we expect that we
+may need to pay for one speaker, so an amount of 2000 euros is included in the
+budget.
 
 Revenue from registration fees
 ==============================
@@ -82,16 +77,44 @@ Tutorials
 ---------
 
 About 130 academic participants: 130*50=6500
+
 About 20 corporate participants: 20*100=2000
 
 Main track
 ----------
 
 About 130 academic participants: 130*50=6500
+
 About 20 corporate participants: 20*100=2000
 
-Total income
-------------
 
-17.000 euros.
+Overview
+========
+
++--------------------+--------------------+--------------------+--------------------+
+|                    |Income              |Expense             |Remark              |
++--------------------+--------------------+--------------------+--------------------+
+|Venue               |                    |1300                |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Catering            |                    |19000               |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Support of speakers |                    |2000                |One speaker is      |
+|                    |                    |                    |supported by        |
+|                    |                    |                    |Enthought           |
++--------------------+--------------------+--------------------+--------------------+
+|Registration fees - |8500                |                    |                    |
+|tutorials           |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Registration fees - |8500                |                    |                    |
+|main conference     |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Sponsoring          |                    |                    |                    |
+|                    |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Total               |17000               |22300               |                    |
++--------------------+--------------------+--------------------+--------------------+
+
 
