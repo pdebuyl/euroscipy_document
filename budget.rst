@@ -59,6 +59,13 @@ Catering for lunches and coffee breaks is provided. On the basis of previous
 editions, we plan about 19.000 euros for lunches and coffee breaks for days one
 to four.
 
+Local costs
+===========
+
+A reasonable amount will be dedicated to small equipment, such as electric
+plugs. Those are important to provide as many participants will bring and use a
+laptop during the tutorials.
+
 Support of invited speakers
 ===========================
 
@@ -97,6 +104,8 @@ Overview
 |Venue               |                    |1300                |                    |
 +--------------------+--------------------+--------------------+--------------------+
 |Catering            |                    |19000               |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Local cost          |                    |300                 |                    |
 +--------------------+--------------------+--------------------+--------------------+
 |Support of speakers |                    |2000                |One speaker is      |
 |                    |                    |                    |supported by        |
