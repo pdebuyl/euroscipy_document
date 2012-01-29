@@ -61,11 +61,9 @@ The local organizing committee is made of
 
 * Nicolas Pettiaux
 
-    Nicolas Pettiaux has a PhD in physics. Nicolas Pettiaux is currently
-    assistant professor of physics at the Haute Ecole de Bruxelles, section
-    Ecole supérieure d'informatique and teaching assistant and scientific
-    collaborator at Faculty of Applied Sciences of the Université Libre de
-    Bruxelles and project manager as consultant.
+    Nicolas Pettiaux has a PhD in physics and currently teaches at the Haute Ecole de Bruxelles, section
+    Ecole supérieure d'informatique and is a teaching assistant at the Université Libre de
+    Bruxelles.
 
 
 Program chair
