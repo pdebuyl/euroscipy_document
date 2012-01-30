@@ -57,7 +57,7 @@ Catering
 
 Catering for lunches and coffee breaks is provided. On the basis of previous
 editions, we plan about 19.000 euros for lunches and coffee breaks for days one
-to four.
+to four ( 32 euros per person per day, for 150 people).
 
 Local costs
 ===========
@@ -83,27 +83,30 @@ income from the registration fees.
 Tutorials
 ---------
 
-About 130 academic participants: 130*50=6500
+About 130 academic participants: 130 participants * 50 euros /participant = 6500 euros
 
-About 20 corporate participants: 20*100=2000
+About 20 corporate participants: 20 participants * 100 euros /participant =2000 euros
 
 Main track
 ----------
 
-About 130 academic participants: 130*50=6500
 
-About 20 corporate participants: 20*100=2000
+About 130 academic participants: 130 participants * 50 euros /participant = 6500 euros
+
+About 20 corporate participants: 20 participants * 100 euros /participant =2000 euros
 
 
 Overview
 ========
+
+(all amounts are in euros)
 
 +--------------------+--------------------+--------------------+--------------------+
 |                    |Income              |Expense             |Remark              |
 +--------------------+--------------------+--------------------+--------------------+
 |Venue               |                    |1300                |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Catering            |                    |19000               |                    |
+|Catering            |                    |19000               |( 32 euros per person  per day) |
 +--------------------+--------------------+--------------------+--------------------+
 |Local cost          |                    |300                 |                    |
 +--------------------+--------------------+--------------------+--------------------+
