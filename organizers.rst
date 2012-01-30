@@ -61,9 +61,9 @@ The local organizing committee is made of
 
 * Nicolas Pettiaux
 
-    Nicolas Pettiaux has a PhD in physics and currently teaches at the Haute Ecole de Bruxelles, section
-    Ecole supérieure d'informatique and is a teaching assistant at the Université Libre de
-    Bruxelles.
+    Nicolas Pettiaux has a PhD in physics and currently teaches at the Haute
+    Ecole de Bruxelles, section Ecole supérieure d'informatique and is a
+    teaching assistant at the Université Libre de Bruxelles.
 
 
 Program chair
@@ -80,8 +80,9 @@ Program Committee
 
 * Gaël Varoquaux
 
-    CNRS (French agency for research) researcher, former EuroSciPy chair and
-    core contributor to several Python libraries.
+    Permanent researcher at INRIA (French National Institute for research in
+    computer science and control), former EuroSciPy chair and core contributor
+    to several Python libraries.
 
 * Stefan Van Der Walt
 
