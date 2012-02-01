@@ -56,8 +56,7 @@ Catering
 ========
 
 Catering for lunches and coffee breaks is provided. On the basis of previous
-editions, we plan about 19.000 euros for lunches and coffee breaks for days one
-to four.
+editions, we plan about 30 euros per participant per day for lunches.
 
 Local costs
 ===========
@@ -74,42 +73,65 @@ us to ease the administration of the conference. At this time, we expect that we
 may need to pay for one speaker, so an amount of 2000 euros is included in the
 budget.
 
+Support of other speakers
+=========================
+
+The conference builds up on an equal participation: everyone pays the
+registration fees and supports its own travel. However, we understand that for
+some speakers it is not possible (PhD students, ...). So, we plan to support
+travel expenses for a few of them.
+
 Revenue from registration fees
 ==============================
 
-Based on reasonable (i.e. pessimistic) attendance numbers, here is the expected
-income from the registration fees.
+We consider two scenarios, one with a low attendance (L) and one with a high
+attendance (H). The registration income and the catering costs are impacted by
+this number.
 
 Tutorials
 ---------
 
-About 130 academic participants: 130*50=6500
+L
+^^^
 
-About 20 corporate participants: 20*100=2000
+About 130 academic participants: 130 * 50 euros = 6500 euros
+
+About 20 corporate participants: 20 * 100 euros = 2000 euros
+
+H
+^^^
+
+About 170 academic participants: 170 * 50 euros = 8500 euros
+
+About 30 corporate participants: 30 * 100 euros = 3000 euros
+
 
 Main track
 ----------
 
-About 130 academic participants: 130*50=6500
-
-About 20 corporate participants: 20*100=2000
-
+We make the same estimates as for the tutorials.
 
 Overview
 ========
+
+Lower Estimate
+--------------
 
 +--------------------+--------------------+--------------------+--------------------+
 |                    |Income              |Expense             |Remark              |
 +--------------------+--------------------+--------------------+--------------------+
 |Venue               |                    |1300                |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Catering            |                    |19000               |                    |
+|Catering            |                    |18000               |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Local cost          |                    |300                 |                    |
+|Local cost          |                    |500                 |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Support of speakers |                    |2000                |One speaker is      |
-|                    |                    |                    |supported by        |
+|Support of keynote  |                    |2000                |One speaker is      |
+|speakers            |                    |                    |supported by        |
 |                    |                    |                    |Enthought           |
++--------------------+--------------------+--------------------+--------------------+
+|Support of other    |                    |3000                |                    |
+|speakers            |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
 |Registration fees - |8500                |                    |                    |
 |tutorials           |                    |                    |                    |
@@ -123,7 +145,40 @@ Overview
 |                    |                    |                    |                    |
 |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Total               |17000               |22300               |                    |
+|Total               |17000               |21600               |                    |
 +--------------------+--------------------+--------------------+--------------------+
 
+Higher Estimate
+--------------
+
++--------------------+--------------------+--------------------+--------------------+
+|                    |Income              |Expense             |Remark              |
++--------------------+--------------------+--------------------+--------------------+
+|Venue               |                    |1300                |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Catering            |                    |24000               |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Local cost          |                    |500                 |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Support of keynote  |                    |2000                |One speaker is      |
+|speakers            |                    |                    |supported by        |
+|                    |                    |                    |Enthought           |
++--------------------+--------------------+--------------------+--------------------+
+|Support of other    |                    |3000                |                    |
+|speakers            |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Registration fees - |11500               |                    |                    |
+|tutorials           |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Registration fees - |11500               |                    |                    |
+|main conference     |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Sponsoring          |                    |                    |                    |
+|                    |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|                    |                    |                    |                    |
+|                    |                    |                    |                    |
++--------------------+--------------------+--------------------+--------------------+
+|Total               |23000               |26300               |                    |
++--------------------+--------------------+--------------------+--------------------+
 
