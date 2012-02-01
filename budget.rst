@@ -56,7 +56,8 @@ Catering
 ========
 
 Catering for lunches and coffee breaks is provided. On the basis of previous
-editions, we plan about 30 euros per participant per day for lunches.
+editions and informal inquiries, we plan about 30 euros per participant per day
+for lunches.
 
 Local costs
 ===========
@@ -94,16 +95,20 @@ Tutorials
 L
 ^^^
 
-About 130 academic participants: 130 * 50 euros = 6500 euros
+About 130 academic participants: 130 participants * 50 euros / participant =
+6500 euros
 
-About 20 corporate participants: 20 * 100 euros = 2000 euros
+About 20 corporate participants: 20 participants * 100 euros / participant =
+2000 euros
 
 H
 ^^^
 
-About 170 academic participants: 170 * 50 euros = 8500 euros
+About 170 academic participants: 170 participants * 50 euros / participant =
+8500 euros
 
-About 30 corporate participants: 30 * 100 euros = 3000 euros
+About 30 corporate participants: 30 participants * 100 euros / participant =
+3000 euros
 
 
 Main track
@@ -114,6 +119,8 @@ We make the same estimates as for the tutorials.
 Overview
 ========
 
+All amounts are in euros.
+
 Lower Estimate
 --------------
 
@@ -122,7 +129,7 @@ Lower Estimate
 +--------------------+--------------------+--------------------+--------------------+
 |Venue               |                    |1300                |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Catering            |                    |18000               |                    |
+|Catering            |                    |18000               |30 euros/person/day |
 +--------------------+--------------------+--------------------+--------------------+
 |Local cost          |                    |500                 |                    |
 +--------------------+--------------------+--------------------+--------------------+
@@ -156,7 +163,7 @@ Higher Estimate
 +--------------------+--------------------+--------------------+--------------------+
 |Venue               |                    |1300                |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Catering            |                    |24000               |                    |
+|Catering            |                    |24000               |30 euros/person/day |
 +--------------------+--------------------+--------------------+--------------------+
 |Local cost          |                    |500                 |                    |
 +--------------------+--------------------+--------------------+--------------------+
