@@ -154,3 +154,5 @@ General organizing committee
 
     CEO of Logilab, a French software consulting company, co-chair of EuroSciPy
     2010 and 2011.
+
+* Sprints: Berkin Malkoç.
