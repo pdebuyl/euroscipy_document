@@ -2,6 +2,39 @@
 The EuroSciPy conference
 ========================
 
+Why EuroSciPy ?
+===============
+
+The Python programming language provides a full ecosystem for scientific
+computing. All the tools that are important in the daily work of scientific
+research can be found within the scientific Python libraries: reading files,
+analyzing and fitting data, 2D plotting, 3D data visualization, experimental
+apparatus control, numerical computations, ... As Python is also a complete
+programming language, it enables the scientist to build custom tools that are
+integrated via a network, that provide a GUI or that are part of a web service,
+for instance.
+
+Given the increasing role of the computer in all fields of science and given the
+power of the tools that are becoming accessible to the scientists, a community
+has formed around the solutions that are based on Python. One of the core
+components on which the scientific libraries for Python build upon in the NumPy
+library that provides an unparalleled array interface.
+
+The EuroSciPy conference serves several purposes:
+
+1. Provide state of the art tutorials given by recognized experts on how to take
+   advantage of Python for science.
+2. Share the latest scientific advances that are enabled by Python-based tools.
+3. Provide a forum for the discussion regarding important projects from the
+   scientific Python community.
+
+As is explained in the subsequent paragraphs, the EuroSciPy conference has
+attracted the leading players of scientific Python in Europe and is a real
+success. The importance of computing, and especially of Python-enabled
+computing, is not going to disappear anytime soon and the EuroSciPy conference
+is positioning itself as one of the building blocks, on a European level, of
+scientific Python community.
+
 First conference
 ================
 
