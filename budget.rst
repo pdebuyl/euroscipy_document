@@ -66,6 +66,10 @@ A reasonable amount will be dedicated to small equipment, such as electric
 plugs. Those are important to provide as many participants will bring and use a
 laptop during the tutorials.
 
+Also, it is planned to hire students to help for the operation of the A/V
+equipment and for holding the lunch buffet and coffee breaks. This should reduce
+the cost of catering.
+
 Support of invited speakers
 ===========================
 
@@ -131,7 +135,7 @@ Lower Estimate
 +--------------------+--------------------+--------------------+--------------------+
 |Catering            |                    |18000               |30 euros/person/day |
 +--------------------+--------------------+--------------------+--------------------+
-|Local cost          |                    |500                 |                    |
+|Local cost          |                    |1000                |                    |
 +--------------------+--------------------+--------------------+--------------------+
 |Support of keynote  |                    |2000                |One speaker is      |
 |speakers            |                    |                    |supported by        |
@@ -152,7 +156,7 @@ Lower Estimate
 |                    |                    |                    |                    |
 |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Total               |17000               |21600               |                    |
+|Total               |17000               |22100               |                    |
 +--------------------+--------------------+--------------------+--------------------+
 
 Higher Estimate
@@ -165,7 +169,7 @@ Higher Estimate
 +--------------------+--------------------+--------------------+--------------------+
 |Catering            |                    |24000               |30 euros/person/day |
 +--------------------+--------------------+--------------------+--------------------+
-|Local cost          |                    |500                 |                    |
+|Local cost          |                    |1000                |                    |
 +--------------------+--------------------+--------------------+--------------------+
 |Support of keynote  |                    |2000                |One speaker is      |
 |speakers            |                    |                    |supported by        |
@@ -186,6 +190,6 @@ Higher Estimate
 |                    |                    |                    |                    |
 |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Total               |23000               |26300               |                    |
+|Total               |23000               |26800               |                    |
 +--------------------+--------------------+--------------------+--------------------+
 
