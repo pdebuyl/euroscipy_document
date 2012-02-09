@@ -156,3 +156,8 @@ General organizing committee
     2010 and 2011.
 
 * Sprints: Berkin Malkoç.
+
+* Support committee: Pierre Gaspard (Professor at the ULB, Franqui Prize 2006),
+  Hugues Bersini (Professor at the ULB, teaches programming courses and wrote a
+  book on object-oriented programming) and Renaud Lambiotte (Professor at the
+  University of Namur, teaches a mathematical modeling course).
