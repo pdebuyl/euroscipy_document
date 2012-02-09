@@ -11,6 +11,7 @@
    :maxdepth: 2
 
    conference_presentation
+   program
    organizers
    budget
    organization_2012
