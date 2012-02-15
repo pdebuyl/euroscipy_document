@@ -70,6 +70,13 @@ Also, it is planned to hire students to help for the operation of the A/V
 equipment and for holding the lunch buffet and coffee breaks. This should reduce
 the cost of catering.
 
+Posters
+=======
+
+Posters will be printed to announce the conference. The estimate is based on the
+poster printing prices at the Université libre de Bruxelles. Fifty posters will
+cost about 850 euros.
+
 Support of invited speakers
 ===========================
 
@@ -137,6 +144,8 @@ Lower Estimate
 +--------------------+--------------------+--------------------+--------------------+
 |Local cost          |                    |1000                |                    |
 +--------------------+--------------------+--------------------+--------------------+
+|Posters             |                    |850                 |                    |
++--------------------+--------------------+--------------------+--------------------+
 |Support of keynote  |                    |2000                |One speaker is      |
 |speakers            |                    |                    |supported by        |
 |                    |                    |                    |Enthought           |
@@ -156,7 +165,7 @@ Lower Estimate
 |                    |                    |                    |                    |
 |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Total               |17000               |22100               |                    |
+|Total               |17000               |22950               |                    |
 +--------------------+--------------------+--------------------+--------------------+
 
 Higher Estimate
@@ -171,6 +180,8 @@ Higher Estimate
 +--------------------+--------------------+--------------------+--------------------+
 |Local cost          |                    |1000                |                    |
 +--------------------+--------------------+--------------------+--------------------+
+|Posters             |                    |850                 |                    |
++--------------------+--------------------+--------------------+--------------------+
 |Support of keynote  |                    |2000                |One speaker is      |
 |speakers            |                    |                    |supported by        |
 |                    |                    |                    |Enthought           |
@@ -190,6 +201,6 @@ Higher Estimate
 |                    |                    |                    |                    |
 |                    |                    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|Total               |23000               |26800               |                    |
+|Total               |23000               |27650               |                    |
 +--------------------+--------------------+--------------------+--------------------+
 
