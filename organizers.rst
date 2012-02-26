@@ -164,3 +164,9 @@ General organizing committee
   * Pierre Gaspard. Professor at the ULB, Franqui Prize 2006.
   * Renaud Lambiotte. Professor at the University of Namur, teaches a
     mathematical modeling course.
+
+* Graphics design: Nicolas Rougier.
+
+  Senior research scientist at the INRIA (French National Institute for research
+    in computer science and control). Author of several visualization packages
+    for Python.
