@@ -59,6 +59,13 @@ The local organizing committee is made of
     Université libre de Bruxelles. He manages the data acquisition system for
     the IceCube experiment, the analysis being performed using Python.
 
+* Renaud Lambiotte
+
+    Renaud Lambiotte is professor at the University of Namur, member of the
+    "Namur Center for Complex Systems (NAXYS)". His research focuses on the
+    relation between dynamics, function and structure in complex systems. He
+    teaches mathematics and mathematical modeling.
+
 * Nicolas Pettiaux
 
     Nicolas Pettiaux has a PhD in physics and currently teaches at the Haute
@@ -162,8 +169,6 @@ General organizing committee
   * Hugues Bersini. Professor at the ULB, teaches programming courses and wrote
     a book on object-oriented programming.
   * Pierre Gaspard. Professor at the ULB, Franqui Prize 2006.
-  * Renaud Lambiotte. Professor at the University of Namur, teaches a
-    mathematical modeling course.
 
 * Graphics design: Nicolas Rougier.
 
