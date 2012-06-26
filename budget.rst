@@ -52,6 +52,13 @@ Global cost for the venue
 
 The total cost for the venue is 1300 euros.
 
+Poster panels
+=============
+
+The university charges 12.5 euros per panel. We requested 22 panels (the panels can accomodate posters on both sides).
+
+* Cost for the panel 275 euros.
+
 Catering
 ========
 
@@ -69,6 +76,32 @@ laptop during the tutorials.
 Also, it is planned to hire students to help for the operation of the A/V
 equipment and for holding the lunch buffet and coffee breaks. This should reduce
 the cost of catering.
+
+Electric cords
+--------------
+
+* multiprises
+
+    * 4 plugs, 1.5m. Unit price 6.29 euros.
+
+      30 units: 188.7 euros
+
+    * 4 plugs, 3m. Unit price 9.59 euros.
+
+      30 units: 287.7 euros
+
+* cords
+
+    * 10 m cord. Unit price 18.09.
+
+      14 units: 253.26 euros.
+
+Name tags
+---------
+
+The names tags are found at 10.87 euros for 50. We order 10 boxes.
+
+* Cost for the name tags 108.70 euros.
 
 Posters
 =======
