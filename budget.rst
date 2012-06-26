@@ -103,12 +103,25 @@ The names tags are found at 10.87 euros for 50. We order 10 boxes.
 
 * Cost for the name tags 108.70 euros.
 
+Sponsors and information posters
+--------------------------------
+
+Three posters for the conference organization are planned (sponsors,
+presentation, practical information).
+
+Unit price: 16.70 euros.
+
+* Cost for three posters: 50.1 euros.
+
+
 Posters
 =======
 
-Posters will be printed to announce the conference. The estimate is based on the
-poster printing prices at the Université libre de Bruxelles. Fifty posters will
-cost about 450 euros.
+A number of posters are printed to announce the conference. One
+hundred A2 posters have been printed by the Presses Universitaires de
+Bruxelles.
+
+* Total cost: 463.75 euros (6% VAT included).
 
 Support of invited speakers
 ===========================
