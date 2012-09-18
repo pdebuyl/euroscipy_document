@@ -11,14 +11,17 @@ computing with Python.
 Depending on the volume of the contributions, a poster session will also be
 held.
 
-The tutorial play an important role in the EuroSciPy conference and allow
+The tutorials play an important role in the EuroSciPy conference and allow
 beginner or advanced users of the Scientific Python tools to learn from
-recognized experts.
+recognized experts. The first two days of the conference are devoted to the
+tutorials that are held in two parallel tracks.
 
-One keynote speaker has already confirmed his participation: David Beazley. We
-are currently looking for a second keynote speaker. The contributed talks are
-the object of a currently open call for abstracts and the program for the
-tutorials is currently well advanced.
+The keynotes speakers for 2012 are David Beazley and Eric Jones. The call for
+contributions brought about fifty replies, some of which were accepted as
+talks. The topics range from collaborative projects such as scikit-learn and
+scikits-image to field-specific developments and technical aspects of Python
+computing. In addition to the talks, a dedicated poster session takes place
+during the conference.
 
 Keynote Speakers
 ================
@@ -67,7 +70,76 @@ revisiting some of my old scientific software and seeing what happens when I
 attempt to recode it purely in Python using existing tools.
 
 
-Second keynote speaker
-----------------------
+Eric Jones
+----------
 
-We are currently looking for a second keynote speaker.
+CV
+^^
+
+Eric Jones is the CEO of Enthought, a leading scientific Python consulting and
+training company. He holds a PhD in Electrical Engineering, on the subject of
+electromagnetics and optimization. Enthought provides scientific and engineering
+software services to the industry. In addition to those activities, Enthought
+supports the open source scientific Python community via the SciPy project and
+other tools such as Mayavi, a 3D visualization software written in Python and
+the Traits graphical user interface library. Enthougth also supports scientific
+Python activities such as the worldwide SciPy conference and is a sponsor of
+EuroSciPy.
+
+Eric Jones is one of the founders of the SciPy project. SciPy is an ambitious
+software library that aims at providing a general computing toolset to the
+Python programming language. In addition to NumPy and Matplotlib, SciPy provides
+a set of functionality that plays a key role in making Python a well established
+scientific computing language.
+
+Abstract : Python in the industry
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+As a consultant for the industry, one is faced with many legacy solutions for
+computing. Proposing Python as the basis for a software project may be
+problematic in some places. This is mainly due to preconceived ideas about the
+Python programming language and poor comparisons to some of its proprietary
+competitors. This talk reviews the obstacles one faces when proposing Python in
+the industry in the light of years of consulting experince. The main points that
+one is faced with are the performance, scripting nature of the language and its
+scalability for industrial solutions. Those critics can very often be addressed
+in a satisfactory manner and this is in part due to the wealth scientific
+libraries available in Python. The general libraries (especially GUI, network
+programming, file handling) provided with Python enable the building of complete
+software solutions.
+
+Tutorials sessions
+==================
+
+The tutorials are held in two tracks: beginner and advanced.
+
+Beginner track
+--------------
+
+* Stefan Van der Walt: Array manipulation with NumPy.
+* Stefan Schwarzer: Introduction to Python for Scientists.
+* Nicolas Rougier: Introduction to Matplotlib.
+* Ralf Gommers: Introduction to Scientific Computing with Scipy.
+
+Advanced track
+--------------
+
+* Gaël Varoquaux: Better numerics with SciPy.
+* Didrik Pinte: Enaml is not a markup language.
+* Francesc Alted: Beyond NumPy: Numexp, Blosc and CArray.
+* Wes McKinney: Stats and Panda.
+* Pietro Berkes: Advanced Numerical Testing.
+* Ian Ozsvald: Parallel Computing.
+* Mike Müller: NumPy + Cython
+* David Cournapeau: Building with Bento.
+
+Contributed talks, posters and lightning talks
+==============================================
+
+The conference gathered many replies after the call for contributions. 15
+abstracts were selected for oral presentations and 33 for poster presentations.
+
+As it is customary in many computing conferences, an oral session was devoted to
+lightning talks: participants register on site to present results, solutions or
+ideas in a short time.
+

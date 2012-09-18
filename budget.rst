@@ -17,7 +17,7 @@ Venue
 
 The conference will take place at the Université Libre de Bruxelles (ULB), on
 the campus Solbosch. The rooms for the conference are provided at the cost for
-members of the university as two organizers are part of the ULB.
+members of the university as several organizers are part of the ULB.
 
 Cost information for ULB lecture rooms
 --------------------------------------
@@ -42,7 +42,7 @@ The rooms for the main conference track is the Dupréel room.
 Satellite meetings
 ------------------
 
-The rooms for the satellite meetings are
+No satelitte meeting is organized in 2012.
 
 * 200 euros for the Dupréel room.
 * No cost for H.1301.
@@ -50,7 +50,7 @@ The rooms for the satellite meetings are
 Global cost for the venue
 -------------------------
 
-The total cost for the venue is 1300 euros.
+The total cost for the venue is 1100 euros.
 
 Poster panels
 =============
@@ -63,7 +63,7 @@ Catering
 ========
 
 Catering for lunches and coffee breaks is provided. On the basis of previous
-editions and informal inquiries, we plan about 30 euros per participant per day
+editions and informal inquiries, we plan about 25 euros per participant per day
 for lunches.
 
 Local costs
@@ -72,10 +72,6 @@ Local costs
 A reasonable amount will be dedicated to small equipment, such as electric
 plugs. Those are important to provide as many participants will bring and use a
 laptop during the tutorials.
-
-Also, it is planned to hire students to help for the operation of the A/V
-equipment and for holding the lunch buffet and coffee breaks. This should reduce
-the cost of catering.
 
 Electric cords
 --------------
@@ -106,13 +102,8 @@ The names tags are found at 10.87 euros for 50. We order 10 boxes.
 Sponsors and information posters
 --------------------------------
 
-Three posters for the conference organization are planned (sponsors,
-presentation, practical information).
-
-Unit price: 16.70 euros.
-
-* Cost for three posters: 50.1 euros.
-
+A poster has been printed to display the sponsor logos. The poster has been
+printed on the organizer's account.
 
 Posters
 =======
@@ -127,17 +118,16 @@ Support of invited speakers
 ===========================
 
 We encourage the support of invited speakers directly by sponsors. This allows
-us to ease the administration of the conference. At this time, we expect that we
-may need to pay for one speaker, so an amount of 2000 euros is included in the
-budget.
+us to ease the administration of the conference. David Beazley's travel costs
+are covered by Enthought. Eric Jones made his trip to Brussels part of business
+travels and did not request for expense reimbursment.
 
 Support of other speakers
 =========================
 
 The conference builds up on an equal participation: everyone pays the
-registration fees and supports its own travel. However, we understand that for
-some speakers it is not possible (PhD students, ...). So, we plan to support
-travel expenses for a few of them.
+registration fees and supports its own travel. One tutorial speaker benefits
+from expense reimbursment for his plane tickets.
 
 Revenue from registration fees
 ==============================

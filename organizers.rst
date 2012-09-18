@@ -172,6 +172,6 @@ General organizing committee
 
 * Graphics design: Nicolas Rougier.
 
-  Senior research scientist at the INRIA (French National Institute for research
+    Senior research scientist at the INRIA (French National Institute for research
     in computer science and control). Author of several visualization packages
     for Python.

@@ -67,20 +67,12 @@ the same physical location. The sprints require 3-4 rooms for 10 to 30 people
 for collaborative work around tables, with video projector and amplification and
 possibly power outlets along the desks to connect laptops.
 
+Sprints begin on day 5, right after the scientific track.
+
+* Day 5: Monday 27th Aug. 2012.
 * Day 6: Tuesday 28th Aug. 2012.
-* Day 7: Wednesday 29th Aug. 2012.
 
-General considerations
-----------------------
-
-We appreciate that the premises (especially those in day 3 and J 4 J, the conference itself) are
-
-* Comfortable
-* Of quality (to be equal to what we had in Paris this year at ENS)
-* Close to each other to allow the circulation
-* Close to a space that can be used for the breaks on mid-morning and
-  mid-afternoon and lunch / cold buffet lunch, and that this space is adequate to
-  receive posters on billboards (20-40)
+Two seminar rooms are booked for the sprints in the K building.
 
 Catering
 ========
@@ -95,7 +87,7 @@ For lunch, we plan a buffet with "mange-debout" tables.
 Coffee breaks
 -------------
 
-Coffee breaks will provide, as expected, coffee.
+Coffee breaks are provided: one in the morning and one in the afternoon.
 
 Registration
 ============
@@ -115,11 +107,42 @@ satelitte organizers.
 Sponsoring
 ==========
 
-The sponsoring for EuroSciPy has, in previous years, been very light because the
-hosting institutions provided infrastructure for free. For 2012 however, it is
-planned to ask sponsoring to private and public sponsors. The accounting will be
-done by Professor Hugues Bersini's lab for sponsor money and transactions within
-the ULB. This is a necessary condition to manage funding from possible Belgian
-funding sources.
+The overall budget for EuroSciPy is reasonable for an event of this
+size. However, sponsoring is essential to ensure that good conditions are
+provided to the participants.
 
+Sponsoring takes place in different manners according to the sponsors.
 
+Public sponsors
+---------------
+
+Applications have been filed within the university, to the "Fonds de la
+Recherche Scienfique - FNRS" (Belgium) and "Visit Brussels", a local bureau of
+tourism.
+
+All of those sponsors replied positively to our applications.
+
+Private partners
+----------------
+
+Logilab, based in Paris (France), supports the conference by hosting and
+managing the website of the conference. The website is used to manage
+registration, payment, abstract submission, reviewing and program
+publication. This support from Logilab, especially with respect to online
+payment, represents an important amount of work done for the conference.
+
+Enthought Europe, based in Cambridge (UK), the managing director of which is
+co-chairing the conference, confirmed early on their support to the
+conference. This has played a key role in the good planning of the conference.
+
+Private sponsors
+----------------
+
+EuroSciPy benefits from the support of the following private sponsors:
+
+* NumFOCUS
+* Continuum Analytics
+* IBM Belgium
+* Wingware
+* Python Academy
+* Github
