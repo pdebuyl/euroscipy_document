@@ -8,16 +8,13 @@ to the Scientific Python community. The rest of the day is devoted to
 contributed talks that present the state-of-the-art in many fields of scientific
 computing with Python.
 
-Depending on the volume of the contributions, a poster session will also be
-held.
-
 The tutorials play an important role in the EuroSciPy conference and allow
 beginner or advanced users of the Scientific Python tools to learn from
 recognized experts. The first two days of the conference are devoted to the
 tutorials that are held in two parallel tracks.
 
 The keynotes speakers for 2012 are David Beazley and Eric Jones. The call for
-contributions brought about fifty replies, some of which were accepted as
+contributions brought about fifty replies that the program committee selects for
 talks. The topics range from collaborative projects such as scikit-learn and
 scikits-image to field-specific developments and technical aspects of Python
 computing. In addition to the talks, a dedicated poster session takes place
@@ -103,15 +100,23 @@ competitors. This talk reviews the obstacles one faces when proposing Python in
 the industry in the light of years of consulting experince. The main points that
 one is faced with are the performance, scripting nature of the language and its
 scalability for industrial solutions. Those critics can very often be addressed
-in a satisfactory manner and this is in part due to the wealth scientific
-libraries available in Python. The general libraries (especially GUI, network
-programming, file handling) provided with Python enable the building of complete
-software solutions.
+in a satisfactory manner and this is in part due to the wealth of scientific
+libraries available in Python. Those libraries, in combination with the general
+purpose libraries (especially GUI, network programming, file handling, etc.)
+provided with Python enable the building of complete software solutions for
+science and research.
 
 Tutorials sessions
 ==================
 
-The tutorials are held in two tracks: beginner and advanced.
+The tutorials are held in two tracks: beginner and advanced. The purpose of the
+beginner track is to introduce scientists to the general scientific tools that
+are available in Python so that the participants can start right away to work on
+their own problems. The speakers in the advanced track are established experts
+on the tools they cover. The tools covered are aimed at current users of Python
+who wish to learn powerful tools that are either related to a given field
+(statistics, for instance) or that are related to general scientific computing
+skills (performance optimization, for instance).
 
 Beginner track
 --------------
@@ -136,10 +141,14 @@ Advanced track
 Contributed talks, posters and lightning talks
 ==============================================
 
-The conference gathered many replies after the call for contributions. 15
-abstracts were selected for oral presentations and 33 for poster presentations.
+The conference gathered many replies after the call for contributions. Fifteen
+abstracts were selected for oral presentations and thirty three for poster
+presentations. The posters can be presented in one slide during the talk
+session. On saturday, a dedicated poster session takes place with enough time
+for the participants to discuss.
 
-As it is customary in many computing conferences, an oral session was devoted to
+As it is customary in many computing conferences, an oral session is devoted to
 lightning talks: participants register on site to present results, solutions or
-ideas in a short time.
+ideas in a short time. This session is very much appreciated because of the
+original contributions it brings and because of its lively character.
 
