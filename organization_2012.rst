@@ -59,6 +59,9 @@ Satellite meetings are held the day following the main conference track. In
 attendance is expected to be lower than for the other parts of the conference,
 with 50-100 participants per meeting.
 
+There was no reply to the call for satellites. The sprint sessions
+were advanced by a day.
+
 Sprints
 -------
 
@@ -72,7 +75,11 @@ Sprints begin on day 5, right after the scientific track.
 * Day 5: Monday 27th Aug. 2012.
 * Day 6: Tuesday 28th Aug. 2012.
 
-Two seminar rooms are booked for the sprints in the K building.
+Two projects replied to the call for sprint: scikit-learn and
+scikits-image. They are lead and coordinated respectively by :
+
+* Emmanuelle Gouillart for scikit-learn. Room K.3.201.
+* Stéfan van der Walt for scikit-image. Room K.4.601.
 
 Catering
 ========
@@ -140,9 +147,10 @@ Private sponsors
 
 EuroSciPy benefits from the support of the following private sponsors:
 
-* NumFOCUS
+* NumFOCUS, in the form of travel support for students.
 * Continuum Analytics
 * IBM Belgium
-* Wingware
+* Wingware. In addition to financial support, Wingware offered three licenses
+  for Wingware IDE that were awarded as best talk, best poster and jury awards.
 * Python Academy
 * Github
