@@ -106,8 +106,8 @@ purpose libraries (especially GUI, network programming, file handling, etc.)
 provided with Python enable the building of complete software solutions for
 science and research.
 
-Tutorials sessions
-==================
+Tutorial sessions
+=================
 
 The tutorials are held in two tracks: beginner and advanced. The purpose of the
 beginner track is to introduce scientists to the general scientific tools that
