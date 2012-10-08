@@ -16,3 +16,4 @@
    organizers
    budget
    organization_2012
+   sponsors
