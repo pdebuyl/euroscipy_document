@@ -14,6 +14,5 @@
    conference_presentation
    program
    organizers
-   budget
    organization_2012
    sponsors
