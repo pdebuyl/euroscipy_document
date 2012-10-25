@@ -111,6 +111,8 @@ The program is managed, for the tutorials, main track and satellites, by their
 respective program chairs. The program for the satellites is left fully to
 satelitte organizers.
 
+.. _orga_sponsor_label:
+
 Sponsoring
 ==========
 

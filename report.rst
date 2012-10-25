@@ -147,3 +147,6 @@ As arranged with the sponsors, a poster comprising all sponsor logos was
 displayed during the whole conference. For all tracks, the organizers listed all
 sponsors as part of the acknowledgements.
 
+The support from the sponsors, public or private, came in different forms (see
+:ref:`orga_sponsor_label`) and all of them combined helped to make EuroSciPy
+2012 a success.
