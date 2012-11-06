@@ -14,5 +14,4 @@
    conference_presentation
    program
    organizers
-   organization_2012
    sponsors
