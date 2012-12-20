@@ -40,8 +40,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'EuroSciPy 2012'
-copyright = u'2011-2012, The EuroSciPy committee'
+project = u'EuroSciPy 2013'
+copyright = u'2011-2013, The EuroSciPy committee'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -164,7 +164,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'EuroSciPy2012doc'
+htmlhelp_basename = 'EuroSciPy2013doc'
 
 
 # -- Options for LaTeX output --------------------------------------------------
@@ -178,7 +178,7 @@ latex_paper_size = 'openany,a4'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, documentclass [howto/manual]).
 latex_documents = [
-  ('index', 'EuroSciPy2012.tex', u'EuroSciPy 2012',
+  ('index', 'EuroSciPy2013.tex', u'EuroSciPy 2013',
    u'The EuroSciPy committee', 'manual'),
 ]
 
@@ -227,7 +227,7 @@ latex_elements = {'maketitle' : r"""
     \begin{flushright}%
       \sphinxlogo%
       {\rm\Huge\py@HeaderFamily \@title \par}%
-      {\em\LARGE\py@HeaderFamily Conference Report \par}
+      {\em\LARGE\py@HeaderFamily Conference Presentation \par}
       \vfill
       \includegraphics[width=0.4\linewidth]{euroscipy_logo}
       \vfill
@@ -258,6 +258,6 @@ latex_elements = {'maketitle' : r"""
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'euroscipy2012', u'EuroSciPy 2012',
+    ('index', 'euroscipy2013', u'EuroSciPy 2013',
      [u'The EuroSciPy committee'], 1)
 ]

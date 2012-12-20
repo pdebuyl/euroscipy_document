@@ -4,14 +4,14 @@
    contain the root `toctree` directive.
 
 ================
- EuroSciPy 2012
+ EuroSciPy 2013
 ================
 
 .. toctree::
    :maxdepth: 2
 
-   report
    conference_presentation
    program
    organizers
+   general_organization
    sponsors

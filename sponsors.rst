@@ -3,14 +3,19 @@
 Sponsors
 ========
 
-Bronze Sponsors
-===============
+*The information in this chapter is outdated.*
 
-Our Bronze Sponsors were `GitHub Inc. <http://github.com/>`_, `Python Academy
-<http://www.python-academy.de/>`_ and `Wingware <http://wingware.com/>`_.
+Gold Sponsors
+=============
 
-.. image:: media/bronze.*
-   :width: 70%
+Our Gold Sponsors were `Enthought <http://www.enthought.com/>`_, `Fonds de la Recherche Scientifique - FNRS <http://www.fnrs.be/>`_, `Logilab <http://www.logilab.fr/>`_, `Université libre de Bruxelles <http://www.ulb.ac.be/>`_ and `Visit Brussels <http://www.visitbrussels.be/>`_.
+
+.. image:: media/gold.*
+   :width: 100%
+
+.. raw:: latex
+
+   \clearpage
 
 Silver Sponsors
 ===============
@@ -21,18 +26,14 @@ Our Silver Sponsors were `IBM Belgium <http://www.ibm.com/contact/be/en/>`_,
 
 
 .. image:: media/silver.*
-   :width: 82%
+   :width: 80%
 
+Bronze Sponsors
+===============
 
-.. raw:: latex
+Our Bronze Sponsors were `GitHub Inc. <http://github.com/>`_, `Python Academy
+<http://www.python-academy.de/>`_ and `Wingware <http://wingware.com/>`_.
 
-   \clearpage
-
-Gold Sponsors
-=============
-
-Our Gold Sponsors were `Enthought <http://www.enthought.com/>`_, `Fonds de la Recherche Scientifique - FNRS <http://www.fnrs.be/>`_, `Logilab <http://www.logilab.fr/>`_, `Université libre de Bruxelles <http://www.ulb.ac.be/>`_ and `Visit Brussels <http://www.visitbrussels.be/>`_.
-
-.. image:: media/gold.*
-   :width: 100%
+.. image:: media/bronze.*
+   :width: 70%
 
