@@ -1,5 +1,5 @@
 ==========================
-Organization plan for 2012
+Organization plan for 2013
 ==========================
 
 General schedule
@@ -8,15 +8,13 @@ General schedule
 +--------------------+--------------------+--------------------+--------------------+
 |Day                 |Dupréel room        |Room H.1301         |Room H.1302         |
 +--------------------+--------------------+--------------------+--------------------+
-|1 - Aug. 23rd       |                    |Tutorials           |Turorials           |
+|1 - Aug. 21st       |                    |Tutorials           |Turorials           |
 +--------------------+--------------------+--------------------+--------------------+
-|2 - Aug. 24th       |                    |Turorials           |Tutorials           |
+|2 - Aug. 22nd       |                    |Turorials           |Tutorials           |
 +--------------------+--------------------+--------------------+--------------------+
-|3 - Aug. 25th       |Scientific track    |                    |                    |
+|3 - Aug. 23rd       |Scientific track    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
-|4 - Aug. 26th       |Scientific track    |                    |                    |
-+--------------------+--------------------+--------------------+--------------------+
-|5 - Aug. 27th       |Satellite 1         |Satellite 2         |                    |
+|4 - Aug. 24th       |Scientific track    |                    |                    |
 +--------------------+--------------------+--------------------+--------------------+
 
 Rooms
@@ -31,9 +29,8 @@ All rooms require
 Tutorials
 ---------
 
-The tutorials are held on days 1 and 2 (for 2012, thursday 23rd Aug. and friday,
-24th Aug.) in two rooms that can hold more at least 120 people. The lectures
-require
+The tutorials are held on days 1 and 2 in two rooms that can hold more at least
+120 people. The lectures require
 
 The tutorials consist of two parallel tracks of two days, held in two rooms
 
@@ -43,9 +40,8 @@ The tutorials consist of two parallel tracks of two days, held in two rooms
 Main Conference track
 ---------------------
 
-The main conference track takes place on days 3 and 4 (for 2012, saturday 25th
-Aug. and sunday 26th Aug.). The capacity of the room should be of more about 250
-people.
+The main conference track takes place on days 3 and 4. The capacity of the room
+should be of more about 250 people.
 
 It consists of a single track on the two days, each day beginning by a keynote
 talk. Then, there is room for contributed talks and a poster session. The talks
@@ -59,8 +55,7 @@ Satellite meetings are held the day following the main conference track. In
 attendance is expected to be lower than for the other parts of the conference,
 with 50-100 participants per meeting.
 
-There was no reply to the call for satellites. The sprint sessions
-were advanced by a day.
+In 2012, there were no satellite meetings.
 
 Sprints
 -------
@@ -68,18 +63,8 @@ Sprints
 Sprints are events allowing participants to collaborative projects to work in
 the same physical location. The sprints require 3-4 rooms for 10 to 30 people
 for collaborative work around tables, with video projector and amplification and
-possibly power outlets along the desks to connect laptops.
-
-Sprints begin on day 5, right after the scientific track.
-
-* Day 5: Monday 27th Aug. 2012.
-* Day 6: Tuesday 28th Aug. 2012.
-
-Two projects replied to the call for sprint: scikit-learn and
-scikits-image. They are lead and coordinated respectively by :
-
-* Emmanuelle Gouillart for scikit-learn. Room K.3.201.
-* Stéfan van der Walt for scikit-image. Room K.4.601.
+possibly power outlets along the desks to connect laptops. Sprints begin on day
+5, right after the scientific track.
 
 Catering
 ========
@@ -99,10 +84,9 @@ Coffee breaks are provided: one in the morning and one in the afternoon.
 Registration
 ============
 
-Registration of participants will be taken care of by Logilab. Logilab manages
-the http://www.euroscipy.org/ website. A online payment system is available.
-This system has already been used in 2011 and Nicolas Chauvat of Logilab agrees
-to take care of it for 2012.
+The user registration organization is ongoing work. In the past, this was taken
+care of by Logilab who managed the http://www.euroscipy.org/ website, including
+an online payment system.
 
 Program management
 ==================
@@ -129,10 +113,10 @@ Applications have been filed within the university, to the "Fonds de la
 Recherche Scienfique - FNRS" (Belgium) and "Visit Brussels", a local bureau of
 tourism.
 
-All of those sponsors replied positively to our applications.
-
 Private partners
 ----------------
+
+*The information in this section is outdated.*
 
 Logilab, based in Paris (France), supports the conference by hosting and
 managing the website of the conference. The website is used to manage
@@ -146,6 +130,8 @@ conference. This has played a key role in the good planning of the conference.
 
 Private sponsors
 ----------------
+
+*The information in this section is outdated.*
 
 EuroSciPy benefits from the support of the following private sponsors:
 

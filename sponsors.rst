@@ -3,6 +3,8 @@
 Sponsors
 ========
 
+*The information in this chapter is outdated.*
+
 Gold Sponsors
 =============
 

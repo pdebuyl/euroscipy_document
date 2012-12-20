@@ -37,20 +37,17 @@ Main Conference track
 
 The rooms for the main conference track is the Dupréel room.
 
-* Total cost for saturday and sunday: 1100 euros.
+* Total cost for friday and saturday: 750 euros.
 
 Satellite meetings
 ------------------
 
-No satelitte meeting is organized in 2012.
-
-* 200 euros for the Dupréel room.
-* No cost for H.1301.
+* No information yet.
 
 Global cost for the venue
 -------------------------
 
-The total cost for the venue is 1100 euros.
+The total cost for the venue is 750 euros.
 
 Poster panels
 =============
@@ -73,37 +70,10 @@ A reasonable amount will be dedicated to small equipment, such as electric
 plugs. Those are important to provide as many participants will bring and use a
 laptop during the tutorials.
 
-Electric cords
---------------
-
-* multiprises
-
-    * 4 plugs, 1.5m. Unit price 6.29 euros.
-
-      30 units: 188.7 euros
-
-    * 4 plugs, 3m. Unit price 9.59 euros.
-
-      30 units: 287.7 euros
-
-* cords
-
-    * 10 m cord. Unit price 18.09.
-
-      14 units: 253.26 euros.
-
-Name tags
----------
-
-The names tags are found at 10.87 euros for 50. We order 10 boxes.
-
-* Cost for the name tags 108.70 euros.
-
 Sponsors and information posters
 --------------------------------
 
-A poster has been printed to display the sponsor logos. The poster has been
-printed on the organizer's account.
+A poster has been printed to display the sponsor logos. Approximate budget 50 euros.
 
 Posters
 =======
@@ -112,22 +82,20 @@ A number of posters are printed to announce the conference. One
 hundred A2 posters have been printed by the Presses Universitaires de
 Bruxelles.
 
-* Total cost: 463.75 euros (6% VAT included).
+* Approximate cost: 500 euros.
 
 Support of invited speakers
 ===========================
 
 We encourage the support of invited speakers directly by sponsors. This allows
-us to ease the administration of the conference. David Beazley's travel costs
-are covered by Enthought. Eric Jones made his trip to Brussels part of business
-travels and did not request for expense reimbursment.
+us to ease the administration of the conference.
 
 Support of other speakers
 =========================
 
 The conference builds up on an equal participation: everyone pays the
-registration fees and supports its own travel. One tutorial speaker benefits
-from expense reimbursment for his plane tickets.
+registration fees and supports its own travel. Support may however be provided
+to other speakers than the keynote depending on the budget.
 
 Revenue from registration fees
 ==============================

@@ -41,11 +41,11 @@ Chairs
     Pierre de Buyl is a postdoctoral research fellow at the Université libre de
     Bruxelles, in the field of statistical physics and molecular simulations.
 
-* Didrik Pinte
+* Nicolas Pettiaux
 
-    Didrik Pinte is a Managing Director for Enthought Europe. He has a training
-    as an agricultural engineer (MS degree) and experience as a research
-    assistant at the Université Catholique de Louvain.
+    Nicolas Pettiaux has a PhD in physics and currently teaches at the Haute
+    Ecole de Bruxelles, section Ecole supérieure d'informatique and is a
+    teaching assistant at the Université Libre de Bruxelles.
 
 
 Local organizing committee
@@ -66,11 +66,9 @@ The local organizing committee is made of
     relation between dynamics, function and structure in complex systems. He
     teaches mathematics and mathematical modeling.
 
-* Nicolas Pettiaux
+* Thomas Lecocq
 
-    Nicolas Pettiaux has a PhD in physics and currently teaches at the Haute
-    Ecole de Bruxelles, section Ecole supérieure d'informatique and is a
-    teaching assistant at the Université Libre de Bruxelles.
+    Thomas Lecocq is a research scientist at the Royal Observatory of Belgium.
 
 
 Program chair
@@ -84,6 +82,8 @@ Program chair
 
 Program Committee
 -----------------
+
+*The information in this chapter is outdated.*
 
 * Gaël Varoquaux
 
@@ -136,15 +136,16 @@ Program Committee
 Tutorials chair
 ---------------
 
-* Valentin Haenel
+* Nicolas Rougier
 
-    Valentin Haenel has already organized the tutorials in 2011. He is one of
-    the two core contributors to Psignifit-3, a toolbox for psychometric data
-    analysis available for Python. He is currently working as a Scientific
-    Python Developer at the Blue Brain Project in Lausanne.
+    Senior research scientist at the INRIA (French National Institute for research
+    in computer science and control). Author of several visualization packages
+    for Python.
 
 General organizing committee
 ----------------------------
+
+*The information in this chapter is outdated.*
 
 * Communication: Emmanuelle Gouillart
 
@@ -162,13 +163,9 @@ General organizing committee
     CEO of Logilab, a French software consulting company, co-chair of EuroSciPy
     2010 and 2011.
 
-* Sprints: Berkin Malkoç.
-
 * Academic advisors:
 
-  * Hugues Bersini. Professor at the ULB, teaches programming courses and wrote
-    a book on object-oriented programming.
-  * Pierre Gaspard. Professor at the ULB, Franqui Prize 2006.
+  * Thomas Gilbert. Senior research scientist at the FRS-FNRS Belgium.
 
 * Graphics design: Nicolas Rougier.
 
