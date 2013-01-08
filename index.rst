@@ -14,4 +14,4 @@
    program
    organizers
    general_organization
-   sponsors
+..   sponsors

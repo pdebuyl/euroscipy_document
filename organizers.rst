@@ -83,55 +83,7 @@ Program chair
 Program Committee
 -----------------
 
-*The information in this chapter is outdated.*
-
-* Gaël Varoquaux
-
-    Permanent researcher at INRIA (French National Institute for research in
-    computer science and control), former EuroSciPy chair and core contributor
-    to several Python libraries.
-
-* Stefan Van Der Walt
-
-    Postdoctoral researcher at UC Berkeley and lecturer at Stellenbosch
-    University (South Africa), core contributor to scikits-image, former SciPy
-    program chair and tutorial speaker at EuroSciPy 2011.
-
-* Konrad Hinsen
-
-    Research scientist at Centre de Biophysique Moléculaire and associated
-    scientist at Synchrotron Soleil (France), author of the Scientific Python
-    library and of the Molecular Modeling Toolkit, keynote speaker at
-    EuroSciPy 2010.
-
-* Emmanuelle Gouillart
-
-    Researcher at the Unité mixte CNRS/Saint-Gobain Surface du Verre et
-    Interfaces (France), co-organizer for EuroSciPy 2010 and 2011, contributor
-    to scikits-image.
-
-* Mike Müller
-
-    Chair of EuroSciPy 2008 and 2009, CEO of the Python Academy (Germany),
-    regular tutorial speaker at EuroSciPy.
-
-* Hans Petter Langtangen
-
-    Director of the Center for Biomedical Computing (Norway), part-time
-    professor at the University of Oslo, editor-in-chief of the SIAM Journal on
-    Scientific Computing, author of the book Python Scripting for Computational
-    Science, keynote speaker at EuroSciPy 2010.
-
-* Pierre de Buyl
-
-    co-chair of EuroSciPy 2012, postdoctoral researcher at the Université libre
-    de Bruxelles (Belgium).
-
-* Kael Hanson
-
-    Associate professor at the Université libre de Bruxelles, scientist in
-    charge of the data acquisition systems for the IceCube particle physics
-    experiment.
+The program committee is getting completed currently.
 
 Tutorials chair
 ---------------
@@ -145,30 +97,5 @@ Tutorials chair
 General organizing committee
 ----------------------------
 
-*The information in this chapter is outdated.*
+The general organizing committee is getting completed currently.
 
-* Communication: Emmanuelle Gouillart
-
-    Researcher at the Unité mixte CNRS/Saint-Gobain Surface du Verre et
-    Interfaces (France), co-organizer for EuroSciPy 2010 and 2011, contributor
-    to scikits-image.
-
-* Sponsoring: Mike Müller.
-
-    Chair of EuroSciPy 2008 and 2009, CEO of the Python Academy (Germany),
-    regular tutorial speaker at EuroSciPy.
-
-* Web site: Nicolas Chauvat.
-
-    CEO of Logilab, a French software consulting company, co-chair of EuroSciPy
-    2010 and 2011.
-
-* Academic advisors:
-
-  * Thomas Gilbert. Senior research scientist at the FRS-FNRS Belgium.
-
-* Graphics design: Nicolas Rougier.
-
-    Senior research scientist at the INRIA (French National Institute for research
-    in computer science and control). Author of several visualization packages
-    for Python.
