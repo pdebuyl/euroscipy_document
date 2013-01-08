@@ -48,7 +48,7 @@ systems biology, machine learning, simulation science, ...
 The organizer of the first conference is Mike Mueller, CEO of Python Academy, a
 german software training company. Mike Mueller has remained part of the
 organization of the conference until now and has accepted to remain part of the
-team for EuroSciPy 2012.
+team for EuroSciPy 2012 and 2013.
 
 Subsequent editions
 ===================
@@ -57,7 +57,8 @@ EuroSciPy took place again in 2009 in Leipzig, then in 2010 and 2011 in Paris at
 the Ecole Nationale Superieure. There, a strong local team composed of active
 members of the scientific Python community provided support for continuing the
 conference series with a truly European scope. A French company active in free
-software and Python, Logilab, also provided support.
+software and Python, Logilab, also provided support. The 2012 edition took place
+in Brussels where it stays for 2013.
 
 The conference grew by the addition, in 2010, of two tutorial tracks that
 proposes to attending scientists either
