@@ -38,7 +38,15 @@ Peter Wang
 CV
 ^^
 
-Peter Wang.
+Peter WangPeter holds a B.A. in Physics from Cornell University and has been
+developing applications professionally using Python since 2001. Before
+co-founding Continuum Analytics in 2011, Peter spent seven years at Enthought
+designing and developing applications for a variety of companies, including
+investment bankers, high-frequency trading firms, oil companies, and others. In
+2007, Peter was named Director of Technical Architecture and served as client
+liaison on high-profile projects. Peter also developed Chaco, an open-source,
+Python-based toolkit for interactive data visualization.
+
 
 Abstract
 ^^^^^^^^
