@@ -116,29 +116,18 @@ tourism.
 Private partners
 ----------------
 
-*The information in this section is outdated.*
+The EuroSciPy conference has benefited in the past of active support by several
+private companies that helped in the organization and logistics of the
+conference. These collaborations played a key role in the good planning of the
+conference. These companies are Enthought Europe (Cambridge, UK), Logilab
+(Paris, France) and Python Academy (Leipzig, Germany).
 
-Logilab, based in Paris (France), supports the conference by hosting and
-managing the website of the conference. The website is used to manage
-registration, payment, abstract submission, reviewing and program
-publication. This support from Logilab, especially with respect to online
-payment, represents an important amount of work done for the conference.
-
-Enthought Europe, based in Cambridge (UK), the managing director of which is
-co-chairing the conference, confirmed early on their support to the
-conference. This has played a key role in the good planning of the conference.
+These partnerships are likely to be renewed for the 2013 edition of the
+conference.
 
 Private sponsors
 ----------------
 
-*The information in this section is outdated.*
+EuroSciPy has benefited from the support of private sponsors in the
+past. Contact with sponsors for 2013 is in progress.
 
-EuroSciPy benefits from the support of the following private sponsors:
-
-* NumFOCUS, in the form of travel support for students.
-* Continuum Analytics
-* IBM Belgium
-* Wingware. In addition to financial support, Wingware offered three licenses
-  for Wingware IDE that were awarded as best talk, best poster and jury awards.
-* Python Academy
-* Github
