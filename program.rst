@@ -22,7 +22,10 @@ Cameron Neylon
 CV 
 ^^^
 
-Cameron Neylon.
+Cameron Neylon is currently Director of Advocacy at The Public Library of
+Science, a non profit publisher and advocacy organization that is active in open
+access publishing. He started his career in academia and holds a PhD in
+Chemistry and is an active proponent of open access and open research.
 
 Abstract
 ^^^^^^^^
