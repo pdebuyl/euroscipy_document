@@ -74,7 +74,7 @@ The local organizing committee is made of
 Program chair
 -------------
 
-* Tiziano Zito
+* Tiziano Zito, Humboldt-Universität zu Berlin, Germany
 
     Tiziano Zito has a PhD in theoretical neuroscience and currently works as a
     scientific computing consultant and system administrator at the Technical
@@ -83,7 +83,76 @@ Program chair
 Program Committee
 -----------------
 
-The program committee is getting completed currently.
+* Pierre de Buyl, Université libre de Bruxelles, Belgium
+
+    Co-chair of EuroSciPy 2012 and 2013, postdoctoral researcher at the
+    Université libre de Bruxelles (Belgium).
+
+* Ralf Gommers
+
+    Short bio.
+
+* Emmanuelle Gouillart, Joint Unit CNRS/Saint-Gobain, France
+
+    Researcher at the Unité mixte CNRS/Saint-Gobain Surface du Verre et
+    Interfaces (France), co-organizer for EuroSciPy 2010 and 2011, contributor
+    to scikits-image.
+
+* Kael Hanson, Université Libre de Bruxelles, Belgium
+
+    Associate professor at the Université libre de Bruxelles, scientist in
+    charge of the data acquisition systems for the IceCube particle physics
+    experiment.
+
+* Konrad Hinsen, Centre National de la Recherche Scientifique (CNRS), France
+
+    Research scientist at Centre de Biophysique Moléculaire and associated
+    scientist at Synchrotron Soleil (France), author of the Scientific Python
+    library and of the Molecular Modeling Toolkit, keynote speaker at
+    EuroSciPy 2010.
+
+* Hans Petter Langtangen, Simula and University of Oslo, Norway
+
+    Director of the Center for Biomedical Computing (Norway), part-time
+    professor at the University of Oslo, editor-in-chief of the SIAM Journal on
+    Scientific Computing, author of the book Python Scripting for Computational
+    Science, keynote speaker at EuroSciPy 2010.
+
+* Mike Müller, Python Academy, Germany
+
+    Chair of EuroSciPy 2008 and 2009, CEO of the Python Academy (Germany),
+    regular tutorial speaker at EuroSciPy.
+
+* Raphael Ritz, International Neuroinformatics Coordinating Facility, Stockholm, Sweden
+
+    Raphael Ritz is Scientific Officer of the INCF (International
+    Neuroinformatics Coordinating Facility). He holds a PhD in physics and
+    already served on the program committee of the SciPy and EuroSciPy
+    conferences.
+
+* Stefan Van Der Walt, Applied Mathematics, Stellenbosch University, South Africa
+
+    Postdoctoral researcher at UC Berkeley and lecturer at Stellenbosch
+    University (South Africa), core contributor to scikits-image, former SciPy
+    program chair and tutorial speaker at EuroSciPy 2011.
+
+* Gaël Varoquaux, INRIA Parietal, Saclay, France
+
+    Permanent researcher at INRIA (French National Institute for research in
+    computer science and control), former EuroSciPy chair and core contributor
+    to several Python libraries.
+
+* Nelle Varoquaux, Mines ParisTech, France
+
+    Nelle Varoquaux is a computer scientist, currently pursuing a PhD in
+    bioinformatics at Mines ParisTech. She organized PyConFR 2012, the french
+    Python conference.
+
+* Pauli Virtanen, Aalto University, Finland
+
+    Pauli Virtanen is an important contributor to the NumPy library that is at
+    the core of most scientific computing done in Python. He is currently
+    postdoctoral fellow at Aalto University.
 
 Tutorials chair
 ---------------
