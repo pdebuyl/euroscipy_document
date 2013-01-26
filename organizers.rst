@@ -166,5 +166,49 @@ Tutorials chair
 General organizing committee
 ----------------------------
 
-The general organizing committee is getting completed currently.
+* Nicolas Chauvat
+
+    CEO of Logilab, a French software consulting company, co-chair of EuroSciPy
+    2010 and 2011.
+
+* Emmanuelle Gouillart
+
+    Researcher at the Unité mixte CNRS/Saint-Gobain Surface du Verre et
+    Interfaces (France), co-organizer for EuroSciPy 2010 and 2011, contributor
+    to scikits-image.
+
+* Kael Hanson
+
+    Associate professor at the Université libre de Bruxelles, scientist in
+    charge of the data acquisition systems for the IceCube particle physics
+    experiment.
+
+* Renaud Lambiotte
+
+    Professor of Physics at the University of Namur, Belgium.
+
+* Thomas Lecocq
+
+    Staff scientist at the Royal Observatory of Belgium.
+
+* Mike Müller
+
+    Chair of EuroSciPy 2008 and 2009, CEO of the Python Academy (Germany),
+    regular tutorial speaker at EuroSciPy.
+
+* Didrik Pinte
+
+    Managing director of Enthought Europe, co-chair of EuroSciPy 2012.
+
+* Gaël Varoquaux
+
+    Permanent researcher at INRIA (French National Institute for research in
+    computer science and control), former EuroSciPy chair and core contributor
+    to several Python libraries.
+
+* Nelle Varoquaux
+
+    Nelle Varoquaux is a computer scientist, currently pursuing a PhD in
+    bioinformatics at Mines ParisTech. She organized PyConFR 2012, the french
+    Python conference.
 
