@@ -8,10 +8,26 @@ conference. The subsequent chapters contain factual information on the
 conference and more detailed information, for instance with respect to the
 scientific program.
 
+Statistics on the participants
+==============================
+
+* Number of participants: 218
+* Number of participants by country: To gather this information, we relied on
+  the billing address of the participants. This information is not filled out
+  correctly by all participants; we thus present the data for which there is no
+  ambiguity.
+* Number of participants from Belgium: 56
+* Number of international participants: From the registration information, we
+  can confirm that we had *at least* 46 people from France, 16 from Germany, 9
+  from the Netherlands, 9 from the United Kingdom, 17 from other European
+  countries and 14 from non-EU countries. There is thus a minimum total of 111
+  confirmed participants from abroad for a total a 218 participants.
+
+
 General organization
 ====================
 
-We had about 230 participants registered to the conference, for either the
+We had 218 participants registered to the conference, for either the
 tutorials, the scientific conference or both. Participants arrived without
 problems at the conference location and received badges and information on
 site. The capacity of the rooms was sufficient but, as noted later on we might
