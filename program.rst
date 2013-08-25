@@ -27,10 +27,33 @@ Science, a non profit publisher and advocacy organization that is active in open
 access publishing. He started his career in academia and holds a PhD in
 Chemistry and is an active proponent of open access and open research.
 
-Abstract
-^^^^^^^^
+Abstract: Network ready research: The role of open source and open thinking
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TBA
+The highest principle of network architecture design is interoperability. If
+Metcalfe's Law tells us that a network's value can scale as some exponent of the
+number of connections then our job in building networks is to ensure that those
+connections are as numerous, as operational, and as easy to create as
+possible. Where we make it easy for anyone to wire in new connections we
+maximise the ability of others to contribute to the value of our shared
+networks.
+
+Amongst those using Python for research are a wide range different disciplines
+and targets but one area that stands out for me, and stretches across a range of
+traditional domains is the study of networks. Networks of physical interactions
+and social networks, of genetic control or of ecological interactions amongst
+many others. The scientific Python community is also amongst the most networked
+of research communities and amongst the most open in the sharing of research
+papers, of research data, tools, and even research in process in online
+conversations and writing.
+
+Lifting our gaze from the networks we work on to the networks we occupy is a
+challenge. Our human networks are messy and contingent and our machine networks
+clogged with things we can't use, even if we could access them. What principles
+can we apply so as to build our research into networks that make the most of the
+network infrastructure we have around us. Where are the pitfalls? And what are
+the opportunities? What will it take to configure our work so as to enable
+"network ready research"?
 
 Peter Wang
 ----------
@@ -48,10 +71,27 @@ liaison on high-profile projects. Peter also developed Chaco, an open-source,
 Python-based toolkit for interactive data visualization.
 
 
-Abstract
-^^^^^^^^
+Abstract: Python and the Future of Data Analysis: A Fugue in Three Parts
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-TBA
+While Python has been a popular and powerful language for scientific computing
+for a while now, its future in the broader data analytics realm is less clear,
+especially as market forces and technological innovation are rapidly
+transforming the field.
+
+In this talk, Peter will introduce some new perspectives on "Big Data" and the
+evolution of programming languages, and present his thesis that Python has a
+central role to play in the future of not just scientific computing, but in
+analytics and even computing in general. As part of the discussion, many new
+libraries, tools, and technologies will be discussed (both Python and
+non-Python), both to understand why they exist and where they are driving
+technical evolution.
+
+The goal is not to merely provide the audience with a new narrative about Python
+and data analytics. Rather, hopefully everyone will feel motivated to be
+proactive in evolving the language ecosystem and nurturing its adoption, in ways
+that will best ensure its long-term relevance and improve the field of
+computational analytics.
 
 Tutorial sessions
 =================
