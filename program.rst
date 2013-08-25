@@ -108,12 +108,22 @@ skills (performance optimization, for instance).
 Beginner track
 --------------
 
-Tutorials.
+* Olivier Debeir: A small python appetizer
+* Valentin Haenel: Array Manipulation with Numpy
+* Nicolas P. Rougier: Matplotlib tutorial
+* Philippe Gervais: Scipy package tutorial
 
 Advanced track
 --------------
 
-Tutorials.
+* Emmanuelle Gouillart: Image processing with scikit-image and the SciPy stack
+* Almar Klein: Modern OpenGL
+* Didrik Pinte: Interactive visualization with Chaco
+* Thomas Lecocq: Basemap & Cartopy - More than just base maps!
+* Paul Zimmermann: Advanced Tutorial on Sage
+* Nelle Varoquaux: Git and github
+* Matthias Bussonnier and Min Ragan-Kelley: IPython Advance Tutorial
+* Gaël Varoquaux: 3D visualization with Mayavi
 
 Contributed talks, posters and lightning talks
 ==============================================
