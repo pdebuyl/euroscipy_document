@@ -120,18 +120,19 @@ local bureau of tourism.
 Private partners
 ----------------
 
-The EuroSciPy conference has benefited in the past of active support by several
+The EuroSciPy conference has benefited of active support by several
 private companies that helped in the organization and logistics of the
 conference. These collaborations played a key role in the good planning of the
 conference. These companies are Enthought Europe (Cambridge, UK), Logilab
 (Paris, France) and Python Academy (Leipzig, Germany).
 
-These partnerships are likely to be renewed for the 2013 edition of the
-conference.
+Since 2013, the German Neuroinformatics Node provides hosting for the website of
+the conference.
 
 Private sponsors
 ----------------
 
 EuroSciPy has benefited from the support of private sponsors in the
-past. Contact with sponsors for 2013 is in progress.
+past. Several sponsors have repied positively for 2013, they are listed in a
+separate section.
 
