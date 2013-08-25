@@ -113,9 +113,9 @@ Sponsoring takes place in different manners according to the sponsors.
 Public sponsors
 ---------------
 
-Applications have been filed within the university, to the "Fonds de la
-Recherche Scienfique - FNRS" (Belgium) and "Visit Brussels", a local bureau of
-tourism.
+Applications for financial support have been awarded from the university, the
+"Fonds de la Recherche Scienfique - FNRS" (Belgium) and "Visit Brussels", a
+local bureau of tourism.
 
 Private partners
 ----------------
