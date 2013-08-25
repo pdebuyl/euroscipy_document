@@ -48,29 +48,6 @@ Chairs
     teaching assistant at the Université Libre de Bruxelles.
 
 
-Local organizing committee
---------------------------
-
-The local organizing committee is made of
-
-* Kael Hanson
-
-    Kael Hanson is a professor of experimental high energy physics at the
-    Université libre de Bruxelles. He manages the data acquisition system for
-    the IceCube experiment, the analysis being performed using Python.
-
-* Renaud Lambiotte
-
-    Renaud Lambiotte is professor at the University of Namur, member of the
-    "Namur Center for Complex Systems (NAXYS)". His research focuses on the
-    relation between dynamics, function and structure in complex systems. He
-    teaches mathematics and mathematical modeling.
-
-* Thomas Lecocq
-
-    Thomas Lecocq is a research scientist at the Royal Observatory of Belgium.
-
-
 Program chair
 -------------
 
@@ -185,7 +162,10 @@ General organizing committee
 
 * Renaud Lambiotte
 
-    Professor of Physics at the University of Namur, Belgium.
+    Renaud Lambiotte is professor at the University of Namur, member of the
+    "Namur Center for Complex Systems (NAXYS)". His research focuses on the
+    relation between dynamics, function and structure in complex systems. He
+    teaches mathematics and mathematical modeling.
 
 * Thomas Lecocq
 
