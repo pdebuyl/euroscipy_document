@@ -55,7 +55,7 @@ Satellite meetings are held the day following the main conference track. In
 attendance is expected to be lower than for the other parts of the conference,
 with 50-100 participants per meeting.
 
-In 2012, there were no satellite meetings.
+In 2012 and 2013, there were no satellite meetings.
 
 Sprints
 -------
@@ -65,6 +65,10 @@ the same physical location. The sprints require 3-4 rooms for 10 to 30 people
 for collaborative work around tables, with video projector and amplification and
 possibly power outlets along the desks to connect laptops. Sprints begin on day
 5, right after the scientific track.
+
+In 2013, there were sprints on: Python visualization (org: Nicolas P. Rougier),
+Sage: Open Source Mathematics Software (org: Paul Zimmerman), NumPy and SciPy
+(org: Ralf Gommers).
 
 Catering
 ========
