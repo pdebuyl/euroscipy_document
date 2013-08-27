@@ -176,6 +176,12 @@ General organizing committee
     Chair of EuroSciPy 2008 and 2009, CEO of the Python Academy (Germany),
     regular tutorial speaker at EuroSciPy.
 
+* Nicolas Pettiaux
+
+    Nicolas Pettiaux has a PhD in physics and currently teaches at the Haute
+    Ecole de Bruxelles, section Ecole supérieure d'informatique and is a
+    teaching assistant at the Université Libre de Bruxelles.
+
 * Didrik Pinte
 
     Managing director of Enthought Europe, co-chair of EuroSciPy 2012.
