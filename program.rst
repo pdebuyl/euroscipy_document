@@ -133,3 +133,59 @@ lightning talks: participants register on site to present results, solutions or
 ideas in a short time. This session is very much appreciated because of the
 original contributions it brings and because of its lively character.
 
+An original contribution this year is a panel discussion proposal by Mike Müller
+on the topic "Making Programmers" that gathered Emmanuelle Gouillart, Valentin
+Haenel, Ian Ozsvald, Gaël Varoquaux and Nelle Varoquaux who shared their
+experience on the education to programming in the scientific, academic and
+high-school environments.
+
+Scientific track
+----------------
+
+* Marcel Stimberg: The second life of Brian
+* Ian Ozsvald: How to build an open-sourced Data Science Company
+* Juan Nunez-Iglesias: Learn to segment n-dimensional images with GALA
+* Nicolas P. Rougier: Vispy, A Modern and Interactive Scientific Visualization
+* Gael Varoquaux: Processing biggish data on commodity hardware: simple Python patterns
+* Olivier Grisel: Trends in Machine Learning and the SciPy community
+* Bill Little: Iris and Cartopy: open source Python libraries for weather and climate science
+* Benoit Da Mota: Distributed High-Dimensional Regression with Shared Memory for Neuroimaging-Genetic Studies
+* Valentin Haenel: News from the Blosc ecosystem: introducing Bloscpack
+* Pierre Haessig: Computing an Optimal Control Policy for an Energy Storage
+* Thomas Lecocq: Studying the Earth with ambient seismic noise
+* Nicolas Baer: Elasticluster: provisioning computing clusters in the cloud with Python
+* Antònia Tugores: Mobility data storage and analysis
+* Jinook Oh: CATOS; Computer Aided Training/Observing System
+* Pablo Olmos: Lidar data processing with Python
+
+Poster Contributions
+--------------------
+
+* Cyrille Rossant: Galry: high performance interactive data visualization in Python
+* Robert Cimrman: SfePy - Overview
+* Bernard UGUEN: PyLayers: A Graph Based Python Open Source  Indoor Propagation Simulator
+* Gorka Zamora-López: GAlib: a library for graph analysis based in numpy array manipulations
+* Vladimír Lukeš: DICOM2FEM: FE meshes from CT scans
+* Marcel Stimberg: The second life of Brian
+* Félix Hartmann: Reaction-diffusion systems for wood formation in trees
+* Denis A. Engemann: MNE-Python: MEG and EEG data analysis with Python
+* Álvaro Justen: pyquality: analyzing Python code
+* Dmitry Khvorostyanov: CHIMPLOT: CoHesive Interactive Model visualization tool with Paper-quaLity OuTcome
+* Johann Rohwer: Parallel computation in Systems Biology with Python
+* Antònia Tugores: Grid made easy
+* Pierrick Brunet: Benchmarking Several Python Compilers and Interpreters on Mathematical Applications
+* Jan Verschelde: modernizing PHCpack through phcpy
+* Yves Hilpisch: Efficient Financial and Data Analytics with Python, pandas & Co.
+* Erik Mathiesen: LCL: a library for modelling continuous systems
+* Mehmet Kunt: Proposing an efficient report generation procedure based on Python modules and Latex
+* Dorota Jarecka: Object-oriented programming with NumPy using CPython & PyPy; comparison with C++ & modern Fortran
+* Michael McKerns: mystic: a framework for predictive science
+* Horacio Andres Vargas Guzman: Dynamic Force Microscopy Simulator
+* Drew Marsden: The UQ Foundation: Supporting the Right Scientific Tools for Reproducibility
+* Fabrice Salvaire: Python for Image Procesing and Big Data
+* Kelsey DSouza: PySTEMM - A STEM Learning Tool for Exploring and Building Executable Concept Models
+* Riccardo Murri: Using the GC3Pie high-throughput library for model calibration and distributed optimization workflow
+* Philippe Gervais: Memory profiling
+* Pawel Chojnacki: OpenBCI: Brain-Computer Interfaces with Python in science and education
+* Riccardo Murri: Performance of Python runtimes on a non-numeric scientific code.
+* Stefan Richthofer: JyNI - Using native CPython-Extensions in Jython
