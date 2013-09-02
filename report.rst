@@ -85,3 +85,17 @@ The registration system for EuroSciPy 2013 has been built on top of Pinax
 Symposion and the Plata e-commerce platform for Django. The collaboration of the
 Université libre de Bruxelles' accounting departement on that matter has been
 very appreciated and helpful.
+
+Acknowledgments
+===============
+
+It is a pleasure to acknowledge all the persons who contributed to make
+EuroSciPy 2013 a success.
+
+* Alain Delchambre, president of the university, for financial support and for
+  relaying the request for online payments to the accounting department.
+* Thomas Gilbert, Professor, for logistic and administrative help.
+* Cellule technique CTE-CAV de l'ULB, and the on-site staff.
+* ULB accounting department: Carmelo Cicero, Danielle Lagrange, Françoise
+  Magerman, Ammara Zemallache.
+* All tutorial and scientific track speakers and poster presenters.
