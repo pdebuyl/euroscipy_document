@@ -20,32 +20,27 @@ General schedule
 Rooms
 =====
 
-All rooms require
-
-* A video projector.
-* Sound amplification.
-* Possibly power outlets along the desks to connect the laptops of participants.
+All rooms require a video projector, sound amplification with a microphone for
+the speaker and possibly power outlets along the desks to connect the laptops of
+participants. The conference organizers install electric wiring in the rooms.
 
 Tutorials
 ---------
 
-The tutorials are held on days 1 and 2 in two rooms that can hold more at least
-120 people. The lectures require
-
-The tutorials consist of two parallel tracks of two days, held in two rooms
-
-* 1 room for the "beginner" track.
-* 1 room for the "advanced" track.
+The tutorials are held on days 1 and 2 in two rooms that can hold at least 120
+people. The tutorials consist of two parallel tracks of two days, held in two
+rooms, for the "beginner" and "advanced" tracks.
 
 Main Conference track
 ---------------------
 
 The main conference track takes place on days 3 and 4. The capacity of the room
-should be of more about 250 people.
+should be of about 250 people.
 
 It consists of a single track on the two days, each day beginning by a keynote
 talk. Then, there is room for contributed talks and a poster session. The talks
-are selected by the program committee and last 30 minutes.
+are selected by the program committee and last 10, 20 or 30 minutes depending on
+the interdisciplinary interest and technical details of the content.
 
 Satellites meetings
 -------------------
@@ -66,31 +61,23 @@ for collaborative work around tables, with video projector and amplification and
 possibly power outlets along the desks to connect laptops. Sprints begin on day
 5, right after the scientific track.
 
-In 2013, there were sprints on: Python visualization (org: Nicolas P. Rougier),
+In 2013, there are sprints on: Python visualization (org: Nicolas P. Rougier),
 Sage: Open Source Mathematics Software (org: Paul Zimmerman), NumPy and SciPy
-(org: Ralf Gommers).
+(org: Ralf Gommers). The sprints are held in rooms K.3.201, K.3.401 and K.3.601.
 
 Catering
 ========
 
-During the conference, lunches and coffee breaks are provided.
-
-Lunch
------
-
-For lunch, we plan a buffet with "mange-debout" tables.
-
-Coffee breaks
--------------
-
-Coffee breaks are provided: one in the morning and one in the afternoon.
+During the conference, lunches and coffee breaks are provided. In 2012 and 2013,
+the caterer "Gourmand Gaillard" provided the catering.
 
 Registration
 ============
 
-The user registration organization is ongoing work. In the past, this was taken
-care of by Logilab who managed the http://www.euroscipy.org/ website, including
-an online payment system.
+In the past, registration was taken care of by Logilab who managed the
+http://www.euroscipy.org/ website, including an online payment system. In 2013,
+a new website running on the pinax symposion platform has been developped and an
+online payment system has been setup (using Plata with the ogone payment module).
 
 Program management
 ==================
@@ -114,8 +101,8 @@ Public sponsors
 ---------------
 
 Applications for financial support have been awarded from the university, the
-"Fonds de la Recherche Scienfique - FNRS" (Belgium) and "Visit Brussels", a
-local bureau of tourism.
+"Fonds de la Recherche Scienfique - FNRS" (Belgium) and "Visit Brussels", the
+communications agency for tourism in the Brussels-Capital Region.
 
 Private partners
 ----------------
