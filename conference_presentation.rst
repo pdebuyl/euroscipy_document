@@ -57,8 +57,8 @@ EuroSciPy took place again in 2009 in Leipzig, then in 2010 and 2011 in Paris at
 the Ecole Nationale Superieure. There, a strong local team composed of active
 members of the scientific Python community provided support for continuing the
 conference series with a truly European scope. A French company active in free
-software and Python, Logilab, also provided support. The 2012 edition took place
-in Brussels where it stays for 2013.
+software and Python, Logilab, also provided support. The 2012 and 2013 editions
+took place in Brussels.
 
 The conference grew by the addition, in 2010, of two tutorial tracks that
 proposes to attending scientists either
