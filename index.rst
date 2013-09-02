@@ -10,6 +10,7 @@
 .. toctree::
    :maxdepth: 2
 
+   report
    conference_presentation
    program
    organizers
