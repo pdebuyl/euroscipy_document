@@ -62,10 +62,29 @@ discuss freely around the posters depending on their interests.
 Sprints
 =======
 
-Five projects held a sprint on the sunday following the conference: "Python
+Five projects held a sprint on the Sunday following the conference: "Python
 visualization", "Sage: Open Source Mathematics Software", "NumPy and SciPy",
 "scikit-learn" and "scikit-image". Feedback on the sprints will be given by the
 sprints organizers shortly.
+
+SciPy & NumPy sprint
+--------------------
+
+This sprint was attended by 18 people - two core developers, a couple of
+regular contributors and many people new to the projects.  The morning started
+with a short tutorial by Pauli Virtanen on how to set up a development
+environment for SciPy, fix a simple issue and send a pull request on Github.
+Then the coffee arrived and everyone started working on fixing existing bugs or
+adding new features.  Which at the end of the day resulted in:
+
+    - 21 new pull requests for SciPy
+    - 9 pull requests merged for SciPy
+    - 5 SciPy issues closed, and many more discussed
+    - 2 commits to NumPy
+    - 2 pull requests to improve the scipy.org website
+
+This was the largest sprint on Scipy in a long time (maybe ever), and
+definitely worth repeating next year.
 
 Sponsors
 ========
