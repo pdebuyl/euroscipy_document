@@ -67,7 +67,9 @@ Program Committee
 
 * Ralf Gommers
 
-    Short bio.
+    Senior Design Engineer at ASML, working on metrology software for
+    lithography systems.  Core developer and release manager of Scipy, and
+    board member of NumFOCUS.
 
 * Emmanuelle Gouillart, Joint Unit CNRS/Saint-Gobain, France
 
