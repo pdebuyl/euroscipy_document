@@ -113,8 +113,12 @@ EuroSciPy 2013 a success.
 
 * Alain Delchambre, president of the university, for financial support and for
   relaying the request for online payments to the accounting department.
-* Thomas Gilbert, Professor, for logistic and administrative help.
+* Thomas Gilbert, F.R.S.-FNRS Research Associate, for logistic and administrative help.
 * Cellule technique CTE-CAV de l'ULB, and the on-site staff.
 * ULB accounting department: Carmelo Cicero, Danielle Lagrange, Françoise
   Magerman, Ammara Zemallache.
 * All tutorial and scientific track speakers and poster presenters.
+* Department "Infrastructures", for solving on-site power issues.
+* Network department, for providing temporary network login to all
+  participants.
+* The catering team of Xavier Ide (Gourmand Gaillard).
