@@ -59,11 +59,10 @@ Sprints
 
 Five projects held a sprint on the Sunday following the conference: "Python
 visualization", "Sage: Open Source Mathematics Software", "NumPy and SciPy",
-"scikit-learn" and "scikit-image". Feedback on the sprints will be given by the
-sprints organizers shortly.
+"scikit-learn" and "scikit-image". About 40 people in total attended the sprints.
 
-SciPy & NumPy sprint
---------------------
+The organizers of the SciPy & NumPy sprint have kindly contributed a report on
+their activity:
 
 This sprint was attended by 18 people - two core developers, a couple of
 regular contributors and many people new to the projects.  The morning started
