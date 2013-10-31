@@ -36,12 +36,6 @@ In tandem with "Aperos Belgium Python", we organized a social event on thursday
 evening that went very well. A sponsor offered a round of drinks for the
 occasion.
 
-Post-conference survey
-======================
-
-A survey has been proposed to the participants. It is too early to close it, its
-contents will be evaluated within a few weeks.
-
 Conference
 ==========
 
