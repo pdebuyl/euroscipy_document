@@ -11,8 +11,9 @@ scientific program.
 General organization
 ====================
 
-We had about XXX participants registered to the conference, for either the
-tutorials, the scientific conference or both. Participants arrived without
+We had about 200 participants registered to the conference, for either the
+tutorials (185), the scientific conference (130) or both (about 210 individual
+participants). Participants arrived without
 problems at the conference location and received badges and information on
 site. The capacity of the rooms was sufficient.
 
