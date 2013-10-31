@@ -227,7 +227,7 @@ latex_elements = {'maketitle' : r"""
     \begin{flushright}%
       \sphinxlogo%
       {\rm\Huge\py@HeaderFamily \@title \par}%
-      {\em\LARGE\py@HeaderFamily Conference Presentation \par}
+      {\em\LARGE\py@HeaderFamily Conference Report \par}
       \vfill
       \includegraphics[width=0.4\linewidth]{euroscipy_logo}
       \vfill
