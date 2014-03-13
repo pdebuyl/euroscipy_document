@@ -127,7 +127,7 @@ their data and requires a manual lookup.
 The platform developped for the payments has been reduced to a standalone
 version for the ULB. The source code is available on github
 https://github.com/pdebuyl/eua-payment and has been implemented on a server of
-the ULB with success.
+the ULB with success and is available for the Cellule Web of the ULB.
 
 EuroSciPy 2014
 ==============
