@@ -89,10 +89,11 @@ Sponsors
 As arranged with the sponsors, a poster comprising all sponsor logos was
 displayed during the whole conference. The organizers also listed all sponsors as
 part of the acknowledgements during the main conference track.
-
 The support from the sponsors, public or private, came in different forms (see
 :ref:`orga_sponsor_label`) and all of them combined helped to make EuroSciPy
 2013 a success.
+The financial support of NumFOCUS and Python Software Verband e.V. served to pay
+for the travel of ten participants to the conference (up to 250€ per person).
 
 On line payments
 ================
