@@ -83,6 +83,16 @@ adding new features.  Which at the end of the day resulted in:
 This was the largest sprint on Scipy in a long time (maybe ever), and
 definitely worth repeating next year.
 
+Proceedings
+===========
+
+Contributors to the conference have been invited to submit a manuscript to the
+conference proceedings, a first for EuroSciPy. The submissions and reviews take
+place publicly on the `GitHub. <http://github.com/>`_ platform, using the system
+put into place by the SciPy conference proceedings. The reviewing process is
+almost completed by now (March 2014) and the proceedings will be published
+online.
+
 Sponsors
 ========
 
