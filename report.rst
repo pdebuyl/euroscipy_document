@@ -105,6 +105,12 @@ The support from the sponsors, public or private, came in different forms (see
 The financial support of NumFOCUS and Python Software Verband e.V. served to pay
 for the travel of ten participants to the conference (up to 250€ per person).
 
+Financial support from Visit Brussels was granted, as is acknowledged by
+the presence of Visit Brussels as a sponsor. The late confirmation of this
+sponsorship and the related administrative overhead did not allow us to bill
+expenses to them properly. As a result, the "déclaration de créance" was not
+filled.
+
 On line payments
 ================
 
