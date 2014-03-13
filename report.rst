@@ -129,6 +129,13 @@ version for the ULB. The source code is available on github
 https://github.com/pdebuyl/eua-payment and has been implemented on a server of
 the ULB with success.
 
+EuroSciPy 2014
+==============
+
+After two editions at the Université libre de Bruxelles, EuroSciPy moves to
+Cambridge, UK, where it will be organised jointly between Enthought and the
+University of Cambridge.
+
 Acknowledgments
 ===============
 
