@@ -28,7 +28,7 @@ student staff from the university made the technical aspect (microphones and
 computer display) run flawlessly.
 
 Network access via either the conference-provided login to the campus network or
-via eduroam worked well. A few network saturation occured, but the situation
+via eduroam worked well. Some network saturation occured, but the situation
 with respect to 2012 has improved a lot and there was almost no complaint on the
 matter.
 
@@ -46,10 +46,13 @@ In 2013, as in 2012, there have been awards for the best poster, best talk and a
 jury award that went to Philippe Gervais for "Memory profiling", Bill Little for
 "Iris and Cartopy: open source Python libraries for weather and climate science"
 and Nicolas Rougier for "Vispy, A Modern and Interactive Scientific
-Visualization".
+Visualization". The awards consisted in a license for the *Canopy* environment
+donated by Enthought.
 
-The keynote talks were well received and the speakers on both days addressed
-relevant issues for the Python community.
+The keynote talks by Cameron Neylon *Network ready research: The role of open
+source and open thinking* and Peter Wang *Python and the Future of Data
+Analysis: A Fugue in Three Parts* were well received and the speakers on both
+days addressed relevant issues for the Python community.
 
 The poster session was combined with a beer session which allowed people to
 discuss freely around the posters depending on their interests.
