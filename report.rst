@@ -119,6 +119,11 @@ Symposion and the Plata e-commerce platform for Django. The collaboration of the
 Université libre de Bruxelles' accounting departement on that matter has been
 very appreciated and helpful.
 
+Some problems arose from the lack of coordination between Ogone and Worldline,
+however. For instance, a full crosscheck of the consolidated daily payments from
+Worldline with respect to the `PAYID` reference from Ogone is not possible from
+their data and requires a manual lookup.
+
 Acknowledgments
 ===============
 
